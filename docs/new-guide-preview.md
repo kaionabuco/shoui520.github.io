@@ -1,8 +1,8 @@
 # Japanese Guide
 
-## 1.1 Why many people "fail" to learn Japanese
+## 1.1 Why people give up on learning Japanese
 
-Many people have simple goals in mind when learning Japanese: to enjoy untranslated Japanese content and to speak Japanese fluently. Many also fail to reach these goals even after years of study. It is not always their fault though, but rather the method's. In language learning, the method behind your learning makes a huge difference in the progress you make.
+Many folks have simple goals in mind when learning Japanese: to enjoy untranslated Japanese content and to speak Japanese fluently. Many also fail to reach these goals even after years of study. It's not always their fault though, but rather the method's. In language learning, the method behind your learning makes a huge difference in the progress you make.
 
 As it turns out, reaching such goals is not possible with "traditional" methods of Japanese learning. Many students are led to failure for not including a crucial ingredient to their study routines, and that would be **immersion**—listening to or reading native content made for native speakers. For example, anime is originally broadcasted in Japanese without subtitles, so when consumed in this form, we call it immersion.   
 
@@ -21,13 +21,13 @@ A Japanese language student following a “traditional” curriculum would usual
 
 None of that is bad in itself, it actually might be sufficient study, but it's not enough to get you to a high level of proficiency. The problem is that they aren't actually engaging with the real language—but what do I mean by that?
 
-Let's take swimming as an example. You can't just stay in the baby pool with floaters and take your time to become a pro at the baby pool before attempting to swim in the kids’ pool. This won’t make you a good swimmer, unless you’re 4 years old.
+Let's take swimming as an example. It's unwise to stay in the baby pool, wearing floaters, taking your sweet time to become a pro at the baby pool before attempting to dip your toes in the kids’ pool. This won’t make you a good swimmer, unless you’re 4 years old.
 
-How about a more relatable example: competitive video games. You won’t get better at the game just playing against the AI and grinding in training mode all day. You have to play the real game against other people even if you think you’re going to lose by a landslide. That's the only possible way to learn.
+How about a more relatable example: competitive video games. No one gets better at a game just by playing against the AI and grinding in training mode, no matter for how long. It's essential to play against other humans, even when you think you’re going to lose by a landslide, because that's where the real game is. That's the only possible path to learn.
 
 <strong><h3> It's important to learn how to move on!</h3></strong>
 
-A common trap students fall into in language learning is staying on beginner resources for too long. They want to ensure they know every single detail of their basics and refuse to move onto the real language. They refuse to engage in anything they aren't already comfortable with, because they are too afraid of not understanding anything. They feel like they aren't “ready". Yet it’s important to leave your beginner resources as soon as possible because, in reality, you will never be ready until you actually start engaging with the real language and get yourself used to it.
+A common trap students fall into in language learning is staying on beginner resources for too long. They want to ensure they know every single detail of their basics and refuse to move onto the real language. They won't engage in anything they aren't already comfortable with, because they are too afraid of not understanding anything. They feel like they aren't “ready". Yet it’s important to leave your beginner resources as soon as possible because, in reality, you will never be ready until you actually start engaging with the real language and get yourself used to it.
 
 ## 1.3 The scale of language
 
@@ -39,12 +39,11 @@ Attempting to construct sentences in said target language without the required e
 
 This is why in your learning routine, **you must “immerse” yourself in the language—read and listen to what natives write and speak.**
 
-Language learning is a process of subconsciously memorizing patterns by the way of comprehensible input. What this means is, when you understand something (=comprehensible) in your immersion (=input), your brain subconsciously stores that pattern for later information retrieval. You see, being able to comfortably read this guide is only possible because you have had so much experience reading English in the past that, when you read this, your brain goes, "Oh, there's pattern #234 used with pattern #82 and pattern
-#10!"
+Language learning is a process of subconsciously memorizing patterns by the way of comprehensible input. What this means is, when you understand something (=comprehensible) in your immersion (=input), your brain subconsciously stores that pattern for later information retrieval. You see, being able to comfortably read this guide is only possible because you've had so much experience reading English before that, while reading this, your brain goes: "Oh, there's pattern #234 used with pattern #82 and pattern #10!"
 
-And since you are a proficient English reader, this is done effortlessly. You have seen the same patterns elsewhere before. You can detect the tone and degree of formality in my writing all thanks to your brain also storing the context, and other information about the patterns you come across.
+And since you are a proficient English reader, this is an effortless process. You've already seen the same patterns elsewhere. You can detect the tone and degree of formality in my writing all thanks to your brain also storing context and other information on the patterns you come across.
 
-Notice how I haven't mentioned "knowing the grammar" or "having memorized the vocabulary"? This is because you don't organically process language in this manner. Some readers may not even be native speakers and probably have studied English grammar before, but it is unlikely they are actively thinking about it when coming into contact with English every day.
+Notice how I haven't mentioned "knowing the grammar" or "having memorized the vocabulary"? That's because you don't organically process language in this manner. Some readers may not even be native speakers and probably have studied English grammar in a traditional manner before, but it's unlikely they're actively thinking about it when coming into contact with English every day.
 
 ## 1.5 Coming to terms with sucking 
 
@@ -52,7 +51,7 @@ In language learning, and in anything that requires skill, you are always going 
 
 **☝ THIS HERE**, ladies and gentlemen, is what we want to avoid. We have to get into the habit of letting go of time-wasters and start engaging with our object of study.
 
-Yes, you won't understand that book or anime perfectly the first time, but that’s not how learning works. It always takes a third, fourth, fifth and even sixth attempt to finally learn something.
+Yes, you won't understand that book or anime perfectly the first time, but that’s not how learning works. It always takes a third, fourth, fifth and even sixth attempt to finally grasp something.
 
 ## 1.6 How you will be studying with this method
 
@@ -65,13 +64,13 @@ Your long-term study consists of:
 -    Looking up vocabulary and grammar found in immersion;
 -    Using flashcards to better memorize vocabulary.
 
-As you can see, studying pretty much boils down to learning vocabulary and grammar. This is very important. We can't have immersion without study, but we also cannot have study without immersion, as we want to be able to get meaning from our immersion and see how what we've studied is used in real language.
+As you can see, studying pretty much boils down to learning vocabulary and grammar. This is very important. We can't have immersion without study, but we also cannot have study without immersion, as we want to be able to get meaning from our immersion and see how what we've studied applies to real language.
 
 Immersion usually consists of whatever a native speaker of that language would read or watch. For example a Japanese YouTube video, or an anime, or a book, or a forum post, or even social media, etc.
 
 ## 1.7 Stages of learning
 
-Language learning is a long-term endeavor. It should be noted that your experience as a beginner getting into the language will differ greatly from an intermediate or advanced learner. The process does not change between intermediate and advanced learners since they have already gotten past the initial hurdle. This guide will steer you through the labyrinthine beginner stage, and then from the intermediate stage and onward.
+Language learning is a long-term endeavor. It should be noted that your experience as a beginner getting into the language will differ greatly from an intermediate or advanced learner. The process does not change between intermediate and advanced learners since they've already gotten past the initial hurdle. This guide will steer you through the labyrinthine beginner stage, and then from the intermediate stage onwards.
 
 ## 2.1 How to learn Japanese
 
@@ -82,36 +81,36 @@ The learning process for the beginner consists of:
 3. Learning grammar through a YouTube playlist.
 4. Starting immersion with easy content and with high repetition. This is how you will be spending most of your time.
 
-## 2.2 Hiragana and Katakana  
+## 2.2 #Hiragana# and #Katakana# 
 ![Hiragana and Katakana](img/kana3.png)  
-Hiragana and katakana, these two are parts of the Japanese writing system. The 3rd part of it being kanji.
-Japanese's writing system can be described as more of a "syllabary" than an alphabet. It is technically wrong to call these alphabets, as each character represents a syllable rather than a vowel or consonant. Take for example, "か", this reads as "ka".  
+#Hiragana# and #katakana# are two components of the Japanese writing system (the third one being #kanji#). They are collectively referred to as the #kana#.
 
- Hiragana and katakana are collectively referred to as the "**kana**".  
+The Japanese writing system is better described as a syllabary rather than an alphabet. In fact, it's incorrect to call #hiragana# and #katakana# alphabets, as each character represents an entire syllable instead of a single letter. For example, the symbol「か」is pronounced as [ka].
+
 ### Hiragana 
 <figure>
   <img src="/img/hiragana.png" />
-  <figcaption>An example of a couple hiragana. This isn't all of them.</figcaption>
+  <figcaption>An example of a couple #hiragana#. This isn't a comprehensive chart.</figcaption>
 </figure> 
-Hiragana can be described as the "main alphabet" of Japanese. It's used in grammatical things, parts of words with Japanese origin, for words that aren't usually written in kanji, and sometimes names. It's the curly and cute variant of kana.
+#Hiragana# can be thought of as the "main alphabet" of Japanese. It's used for grammatical elements, in words of Japanese origin, for words that aren't usually written in #kanji#, and sometimes given names. It's the curlier and cutesy variant of #kana#.
 
 ### Katakana
 
 ![Katakana](img/katakana.png)
-Katakana is the angular and pointy version of kana. It has the exact same sounds as hiragana. It's used in loan words (words borrowed from other languages like English), onomatopoeia words (Japanese is full of these!) and slang words. It may also be used in names, mainly foreign names.  
+#Katakana# is the sharper and more angular version of #kana#. Each #katakana# symbol mirrors a #hiragana# counterpart which shares the same pronunciation. This variant of #kana# is used in loan words (words borrowed from other languages like English), onomatopoeia (Japanese is full of these!), and slang. It may also be used in names, mainly foreign names.
 
-### How you are going to learn the Kana
+### How you are going to learn the #Kana#
 
 #### Step 1 - the chart
 
-First I want you to take a good look at this kana chart
+First, I want you to take a good look at this #kana# chart:
 
 ![Hiragana and Katakana full chart](img/hiragana_katakana_LARGE.png)
-<a href="/img/hiragana_katakana_LARGE.png" target="_blank">View in browser</a><br>
+<a href="/img/hiragana_katakana_LARGE.png" target="_blank">View in browser (higher resolution)</a><br>
 <a href="/img/hiragana_katakana_LARGE.png" download>
 Download image</a>
 
-This chart will come in really handy when you are learning to read the kana. I recommend you save it.
+This chart will come in really handy while you're learning to read #kana#. I recommend you download it.
 
 #### Step 2 - the YouTube video
 
