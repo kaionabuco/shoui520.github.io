@@ -1,12 +1,8 @@
 # 30 Day Japanese (UsagiSpoon)  
 
-A guide/routine to help people learn Japanese from scratch with the immersion method.  
+This is a guide/routine to help people learn Japanese from scratch with the immersion method. This guide was made to be followed in order, most of the decisions have already been made for you. The routine is split into days, and each day has tasks that you need to do.
 
-This guide was made to be followed in order. Most of the decisions have already been made for you.   
-
-The routines are split into days. Each day has tasks that you need to do.  
-
-What you'll expect to know at the end of the 30 days:
+What you should expect to know at the end of the 30 days:
 
 - An understanding of the most common Japanese grammar patterns.
 - A vocabulary of at least 500 words.  
@@ -25,15 +21,17 @@ What I expect from you:
 ### Stage: Starting kana stage  
 The absolute first thing you need to do when you learn Japanese is to learn the *kana*. *Kana* is short for *hiragana* and *katakana*.  
 
-Why and how they are used can get confusing for newcomers to Japanese. So, I recommend reading [this](https://gohoneko.neocities.org/grammar/taekim.html#6%20The%20Scripts) until you get to finish the Hiragana and Katakana section, just before the Kanji section. It's quite a hefty amount of text, so it could take some time. However, you won't be memorizing the *kana* with it. I'll explain how you will do that below.
+Why and how they are used can get confusing for newcomers to Japanese. So, I recommend reading [this](https://gohoneko.neocities.org/grammar/taekim.html#6%20The%20Scripts) up until the Katakana section, just before the Kanji section. It's a quite hefty amount of text, so it could take some time. However, you won't be memorizing the *kana* with it. I'll explain how you will do that below.
 
 When you are done reading that, copy out [the chart from the main guide](/img/hiragana_katakana_LARGE.png). It's important you learn how to write *kana*, as this can also make it easier to differentiate them too. Don't worry if your handwriting is not pretty. You can do it on a paper or a screen, it doesn't matter really.
 
 INSERT IMAGE OF THE KANA CHART
 
-Then, watch this video: [https://www.youtube.com/watch?v=_wZHqOghvSs](https://www.youtube.com/watch?v=_wZHqOghvSs). It's a video by JapanesePod. Probably be the only JapanesePod video you should watch though, just sayin'.
+Then, watch the following video by JapanesePod.
 
-EMBED JAPANESE POD
+EMBED https://www.youtube.com/watch?v=_wZHqOghvSs)
+
+This is probably be the only JapanesePod video you should watch though, just sayin'.
 
 Now, click [here](https://gohoneko.neocities.org/learn/kana.html) to go to a *kana* website.  
 
@@ -43,7 +41,7 @@ Click "show/hide options". Click "check all" for the categories (Hiragana, Hirag
 
 Type in the correct *romaji* in the text box (*romaji* are the latin characters we use for English and other languages). This is how you'll practice your *kana*.  
 
-Do this for 10 minutes. You can use this timer [here.](https://www.online-stopwatch.com/timer/10minutes/)
+Do this for 10 minutes. You can use this timer [here](https://www.online-stopwatch.com/timer/10minutes/).
 
 SCREENSHOT OF THE TIMER
 
@@ -51,7 +49,7 @@ SCREENSHOT OF THE TIMER
 
 ### Stage: Creating your own Japan at home  
 
-Practice on [that website](https://gohoneko.neocities.org/learn/kana.html) for 10 minutes. [Here's the timer.](https://www.online-stopwatch.com/timer/10minutes/). Don't forget that all *kana* must be enabled.  
+Practice on [that website](https://gohoneko.neocities.org/learn/kana.html) for 10 minutes. [Here's the timer](https://www.online-stopwatch.com/timer/10minutes/). Don't forget that all *kana* must be enabled.  
 
 Surrounding your daily life with Japanese is the most important part of the immersion method. It may be hard to decide, but you'll need to find content that interests you, and you'll need to make consuming it a habit. Slice of life anime is a good place to start. There are many, many anime that have simple Japanese. Here are some suggestions (but you can use anything you want):
 
@@ -75,7 +73,7 @@ Surrounding your daily life with Japanese is the most important part of the imme
 - [Kiniro Mosaic](https://en.wikipedia.org/wiki/Kin-iro_Mosaic)
 - [New Game!](https://en.wikipedia.org/wiki/New_Game!)
 
-See [Anime Resources](https://learnjapanese.moe/resources/#anime) for places to find anime. Downloading the anime is preferred because it makes it easier to carry your anime library portably.  
+See [Anime Resources](https://learnjapanese.moe/resources/#anime) for places to find anime. Downloading the anime is preferred because it makes it easier to carry your library portably.  
 
 **Q: But everything here is so boooooring!!!! I'd rather watch something actually good!**
 
@@ -83,201 +81,123 @@ A: And I like your way of thinking! Immersion is all about spending time with co
 
 **Your task:**  
 
-I want you to try immersing for the first time with the "subtitle tutor" method.  
+I want you to try immersing for the first time with the "subtitle tutor" method. It's a method where you watch an episode of an anime with English subtitles, then watch it again without subtitles. Then listen to it a third time while doing other things (wireless earbuds makes this easier).
 
-The subtitle tutor method is where you watch an episode of an anime with English subtitles, then watch it again without subtitles. Then listen to it when doing other things (wireless earbuds makes this easier).  
+1. Watch episode with English subtitles.
+2. Watch that episode without any subtitles (also known as *raw listening*).
+3. If you're done for the day, put the episode(s) in an audio playlist to listen while you do something else. Otherwise, go back to step 1 for the next episode.
 
-The flowchart process:
+Essentially, by watching the episode with subtitles first, you have increased the comprehensibility of your input. The subtitle tutor method is only meant to provide context for the audio you are listening to. I also recommend listening to the audio while doing other things. By doing that you are essentially filling in the silence with Japanese, which means, even if for a few seconds, you may pay attention to what's being said.  
 
-1. Watch with English subtitles  
-2. Watch without any subtitles (also known as raw listening)  
-3. Are you done for today? (Yes=Put the episodes on in the background to listen while you do other things. | No= Go back to step 1.)
+While watching the episode raw, don't worry if you can't understand it. Try to focus on the sounds, the speaking patterns, and anything in it that you can make meaning out of. Becoming able to understand Japanese is a skill that takes a long time, and it all begins with raw listening and trying to make that listening comprehensible.  
 
-Essentially, by watching the episode with subtitles first, you have increased the comprehensibility of your input.  
-
-While watching the episode raw, don't worry if you can't understand.  
-
-Try to focus on the sounds, the speaking patterns and anything in it that you can make meaning out of.  
-
-Becoming able to understand Japanese is a skill that takes a long time.  
-
-But it all begins with raw listening and trying to make that listening comprehensible.  
-
-The subtitle tutor method is only meant to provide context for the audio you are listening to.   
-
-I also recommend listening to the audio when doing other things.  
-
-By doing that you are essentially filling in the silence with Japanese, which means, even if for a few seconds, you may pay attention to what's being said.  
-
-Note: Listening while doing other things = **passive immersion**.  
-Listening with undivided attention = **active immersion**.  
-
+Note:
+Listening while doing other things = **passive immersion**.  
+Listening with undivided attention = **active immersion**. 
 
 **Q: Why immersion before any grammar or vocabulary study?** 
 
-A: Some of you might have wondered why I want you to immerse without knowing any grammar or whatever. And that's because listening is the crux of learning a language. Native speakers are so good at their language because of their environment (the language being there wherever they go), and by replicating that environment you can expect to replicate the results. Listening a lot even if you don't understand makes it easier to learn new words in Japanese and get a deeper feel for the language.  
+A: Because listening is the crux of learning a language. Native speakers are good at their language because of their environment (the language being there wherever they go), and by replicating that environment you can expect to replicate the results. Listening a lot even if you don't understand it makes it easier to learn new words in Japanese and develop a deeper intuition for the language.  
 
-**Q: So, I've completed my first episode, what should I do now?**
+**Q: So, I've completed my first episode. What's next?**
 
-A: You can consider your immersion done for the day but if you want to do more (which is great) then you can roll a dice to decide how many episodes you want to watch.  
+A: You can consider your immersion done for the day, but if you want to do more (which is great) then you can roll a die to decide how many episodes you want to watch.  
 
-[Roll a dice](https://www.google.com/search?q=roll+a+4+sided+dice)   
+[Roll a 4-sided die](https://www.google.com/search?q=roll+a+4+sided+dice)!
 
-I didn't want to overwhelm you on your second day, so you'll start learning about grammar tomorrow.  
+I don't want to overwhelm you on your second day, so you'll start learning grammar tomorrow.  
 ## Day 3
 
 ### Stage: Just starting grammar
 
-Do your daily kana practice on this site! [https://gohoneko.neocities.org/learn/kana.html](https://gohoneko.neocities.org/learn/kana.html) for 10 minutes.  
+Do your [daily *kana* practice](https://gohoneko.neocities.org/learn/kana.html) for 10 minutes. [Here's the timer](https://www.online-stopwatch.com/timer/10minutes/).
 
-Use a timer here: [https://www.online-stopwatch.com/timer/10minutes/](https://www.online-stopwatch.com/timer/10minutes/)  
+Now here's where you'll start grammar. You don't need to do any drills, exercises, or anything like that. Everything you will be learning is insanely common and will be reinforced by your daily immersion.  
 
-Now here's where you'll start grammar.  
+The grammar guide I recommend is [Cure Dolly's Organic Japanese](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj).
 
-You don't need to do any drills or anything.    
+EMBED FIRST VIDEO FROM PLAYLIST https://www.youtube.com/watch?v=pSvH9vH60Ig
 
-You don't need to choose the correct patterns or anything like that.   
+If you prefer reading, here's the [Cure Dolly fan-made textbook](https://docs.google.com/document/d/1OwVPStFrXRjXvzmrFQUfXpEiPNspYq6JYxA4zDTlhPM/edit)!
 
-Everything you will be learning is insanely common and will be reinforced with your daily immersion.     
+All I want you to do is **watch the videos** and **take notes** (Google Keep, a tool for taking notes, can be found [here](https://keep.google.com/)).
 
-The grammar guide I want you to use is Cure Dolly's Organic Japanese.  
+**Note: I recommend turning on subtitles for Cure Dolly's videos.**    
 
-The YouTube playlist is here: [https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)  
+***Watch 3 videos a day!*** That's a good number, you'll be near the end of her guide after 30 days at this pace. And again, ***take notes!***
 
-For folks out there that prefer reading, here is the [Cure Dolly fan-made textbook](https://docs.google.com/document/d/1OwVPStFrXRjXvzmrFQUfXpEiPNspYq6JYxA4zDTlhPM/edit)!  
+**Q: What should I even put in my notes?**
 
-All I want you to do is **watch the videos** and **take notes**
+A: You should put any information that you feel is important. Trust your intuition. If Cure Dolly says *this* means *that*, then you might want to take a note of it. Your notes do not need to be detailed, and you don't need to show them to anyone. They are YOUR notes, so make them yours.  
 
-(Google Keep note taking site here: [https://keep.google.com/](https://keep.google.com/))  
+**Q: Why should I even do notes?! I can probably remember everything anyway!**
 
-**Note: I recommend turning on the subtitles for Cure Dolly's videos.**    
-
-***Watch 3 videos a day***  
-
-That is a good number, you will be near the end of her guide after 30 days at that pace.  
-
-***Take notes.***  
-
-**Q: What should I even put in my notes?**  
-
-A: You should put information that you feel is important.  
-
-Rely on your instincts.  
-
-If Cure Dolly says this means that, then you might want to take a note of it.  
-
-Your notes do not need to be detailed, and you don't need to show them to anyone.  
-
-Your notes are YOUR notes, make them your notes.  
-
-**Q: Why should I even do notes! I can probably remember everything anyway!**
-
-A: I want you to take notes so you can go over them whenever you need to. (Keyword: when **you** need to!)  
-
-You are essentially making your own little mini version of the videos in your notes.  
-
-So, if you *do* forget something, you can always just look at your notes.  
+A: I want you to take notes so you can go over them whenever you need to. (Keyword: when you **need** to!) You're making your own mini version of the videos in your notes, so if you *do* forget something, it's faster to review what you've written.  
 
 **Q: I really don't want to take notes...**  
-A: And that is fine!  
 
-Note-taking is an area where I do think personal preference is involved.  
+A: And that's fine! Note-taking is an area where I do think personal preference is involved.  
 
 ### Stage: Just done your first grammar lessons
 
-After you watched your first 3 Cure Dolly videos, you can consider that your **"grammar session done for the day".**  
+After you watched your first 3 Cure Dolly videos, you can consider that your **"grammar session done for the day".** Now I want you to immerse.  
 
-Now what I want you to do is immerse.  
-
-You know the drill.  
-
-[Roll a 4-sided dice](https://www.google.com/search?q=roll+a+4+sided+dice)   
+You know the drill. [Roll a 4-sided die](https://www.google.com/search?q=roll+a+4+sided+dice)! 
 
 **Q: Do I need to do the "subtitle tutor" method?**  
 
-A: The subtitle tutor method is **not required**. It is merely a way to make immersion more interesting in the beginning. 
-I merely presented it to you as a method that is available to you.  
+A: The subtitle tutor method is **not required**. It's merely a way to make immersion more interesting in the beginning. I presented it to you as an available tool you may want to use.  
 
-**Q: What do I do if I keep hearing a word that interests me and want to know what it means?**
+**Q: What do I do if I keep hearing a word that interests me and I want to know what it means?**
 
-A: First of all, that's great!  
-You can use [Jisho.org](https://jisho.org/) to search up the word. 
-There's a chance you might be mishearing it so you may not be able to find out.  
+A: First of all, that's great! You can use [Jisho.org](https://jisho.org/) to search up a word. There's a chance you might be mishearing it, so you may not be able to find out for now.  
 
-Tomorrow will get more complex. So, uh, look forward to it...?  
+Tomorrow will get more complex. So, uh, look forward to it...?
 
-## Day 4  
+## Day 4
 
-### Stage: Learning kanji and new words: Using Anki for the first time.  
+### Stage: Learning *kanji* and new words, using Anki for the first time.  
 
-Today you'll be:  
+Today you'll be:
 
-- Practicing kana  
-- Studying grammar  
-- Using Anki for the first time
-- Learning new words and kanji in Anki. 
-- Setting up a Japanese keyboard on your pc 
+- Practicing *kana.*
+- Studying grammar. 
+- Using Anki for the first time.
+- Learning new words and *kanji* with Anki. 
+- Setting up a Japanese keyboard on your PC. 
 - Doing your daily immersion.  
 
-It is a lot. Please make sure you have enough time today.   
+It's a lot. Please make sure you have enough time today.   
 
-Practice your kana on this site [https://gohoneko.neocities.org/learn/kana.html](https://gohoneko.neocities.org/learn/kana.html) for 10 minutes.  
+Practice your *kana* on [that website](https://gohoneko.neocities.org/learn/kana.html) for 10 minutes. [Here's the timer](https://www.online-stopwatch.com/timer/10minutes/).
 
-[10 Minute Timer Here](https://www.online-stopwatch.com/timer/10minutes/)  
+After that, do your daily grammar study: **3 Cure Dolly videos**!   
 
-After that, do your daily grammar study.  
+Next, we'll set up Anki. Watch the following video:
 
-Remember the routine from the previous day: **3 Cure Dolly videos**!   
+EMBED https://www.youtube.com/watch?v=UDUITtA1jJI
 
-After you've done that, let's set up Anki.  
+Now let's download Anki. You can download Anki in the official website [here](https://apps.ankiweb.net/), just click on the Download button. It should scroll the page down to the downloads section. Click on the first option.
 
-First, I want you to watch this video : [https://www.youtube.com/watch?v=UDUITtA1jJI](https://www.youtube.com/watch?v=UDUITtA1jJI)  
-
-Now let's download Anki.  
-
-You can download Anki by visiting the official website ([here](https://apps.ankiweb.net/)) and clicking on the Download button. It should scroll the page down to the downloads section. Click the first option.  
-
-Download the required deck [here](https://github.com/donkuri/Kaishi/releases) (grab the latest `.apkg` file)  
+Download the required deck [here](https://github.com/donkuri/Kaishi/releases) (grab the latest `.apkg` file). 
 
 When you first open Anki, the first thing you'll see is the "interface language selector". This just decides what language Anki will be displayed in. Any language is fine.  
 
-Go into **Tools** on the top bar, and click **Preferences (Ctrl+P)**.  
+Go into **Tools** on the top bar, and click **Preferences (Ctrl+P)**. In this window, click on the **Scheduling** tab, and check (✓) the option "*V3 Scheduler*". And change the **Learn ahead limit** to `900`. Then click on Close.
 
-In this window, click on the **Scheduling** tab, and check (✓) the option "*V3 Scheduler*".  
+SCREENSHOT OF CORRECT SETTINGS
 
-And change the **Learn ahead limit** to `900`.  
+In Anki, there are 3 buttons on the bottom of the window. The button **Import File** is how you'll be importing your downloaded deck. Once clicked, it should open the file picker window. Choose your downloaded deck.  
 
-Now click Close.  
+SCREENSHOT HERE
 
-In Anki, there are 3 buttons on the bottom of the window. The button **Import File** is how you'll be importing your downloaded deck. 
-Once clicked, it should open the file picker window.   
+When it finishes importing it should show you a box with bunch of text. Just press OK.  
 
-Choose your downloaded deck.  
+Now you'll see the deck and a blue number next to the deck's name. That blue number is how many new cards you will be doing in a day. 20 cards is the default, it may or may not be managable. You might want to lower the number of cards if you find it too hard to keep up with reviews. But don't worry about it right now.   
 
+Click on the cog icon next to the *Kaishi 1.5k* deck. Go to *Options*. Change **Maximum reviews/day** to `9999`. This just means "uncapped". The default is 200 and I don't think your cards will pile up that high if you do Anki every day but it's good practice to uncap your review limit.  
 
-When it finishes importing it should show you a box with bunch of text. Just press ok.  
-
-Now you'll see the deck and a blue number next to it.  
-
-The blue number is how many new cards you will be doing in a day.  
-
-20 cards is the default.  
-
-20 cards may or not be manageable.  
-
-You might want to lower the number of cards if you find it too hard to keep up with reviews. But don't worry about it right now.   
-
-Click the cog icon next to the *Kaishi 1.5k* deck.  
-
-Click *Options*.  
-
-Change **Maximum reviews/day** to `9999`. This just means "uncapped".  
-
-The default is 200 and I don't think your cards will pile up that high if you do Anki every day but,  
-
-It is good practice to uncap your review limit.  
-
-Just some Anki know-how.  
+Just some Anki know-how.
 
 You also need to change the **Learning steps** to `1m 5m 10m`.  
 
