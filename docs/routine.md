@@ -8,98 +8,76 @@ The routines are split into days. Each day has tasks that you need to do.
 
 What you'll expect to know at the end of the 30 days:
 
-- An understanding of the most common Japanese grammar patterns
+- An understanding of the most common Japanese grammar patterns.
 - A vocabulary of at least 500 words.  
 - An understanding of basic sentences in slice of life anime.  
-- The ability to read hiragana, katakana and some common kanji.  
+- The ability to read *hiragana*, *katakana* and some common *kanji*.  
 - A good foundation to continue learning Japanese on your own.  
 
 What I expect from you: 
 
-- **the will to learn**    
+- **The will to learn.**    
 - 3+ hours of your free time per day available for Japanese.  
-- a computer (sorry phone users)  
+- A computer (sorry phone users).  
 
 ## Day 1  
 
 ### Stage: Starting kana stage  
-The absolute first thing you need to do when you learn Japanese is to learn the kana. Kana is short for hiragana and katakana.  
+The absolute first thing you need to do when you learn Japanese is to learn the *kana*. *Kana* is short for *hiragana* and *katakana*.  
 
-Why and how they are used can get confusing for newcomers to Japanese.  
+Why and how they are used can get confusing for newcomers to Japanese. So, I recommend reading [this](https://gohoneko.neocities.org/grammar/taekim.html#6%20The%20Scripts) until you get to finish the Hiragana and Katakana section, just before the Kanji section. It's quite a hefty amount of text, so it could take some time. However, you won't be memorizing the *kana* with it. I'll explain how you will do that below.
 
-So, I recommend reading [[this]](https://gohoneko.neocities.org/grammar/taekim.html#6%20The%20Scripts).  
+When you are done reading that, copy out [the chart from the main guide](/img/hiragana_katakana_LARGE.png). It's important you learn how to write *kana*, as this can also make it easier to differentiate them too. Don't worry if your handwriting is not pretty. You can do it on a paper or a screen, it doesn't matter really.
 
-Read it until you get to finish the Hiragana and Katakana section, just before the "Kanji" section.    
+INSERT IMAGE OF THE KANA CHART
 
-It is quite a hefty amount of text. It could take some time.  
+Then, watch this video: [https://www.youtube.com/watch?v=_wZHqOghvSs](https://www.youtube.com/watch?v=_wZHqOghvSs). It's a video by JapanesePod. Probably be the only JapanesePod video you should watch though, just sayin'.
 
-By the way you aren't memorizing the kana with that link. I will explain how you will do that below.  
+EMBED JAPANESE POD
 
+Now, click [here](https://gohoneko.neocities.org/learn/kana.html) to go to a *kana* website.  
 
-When you are done reading that, copy out [the chart from the main guide](/img/hiragana_katakana_LARGE.png).    
+INSERT SCREENSHOT OF THE WEBSITE
 
-It is important you learn how to write kana as this can also make it easier to differentiate them too. Don't worry if your handwriting is not pretty.  
+Click "show/hide options". Click "check all" for the categories (Hiragana, Hiragana combinations, Katakana, Katakana combinations). Don't worry about the fonts.  
 
-You can do it on a paper or a screen, it doesn't matter really.   
+Type in the correct *romaji* in the text box (*romaji* are the latin characters we use for English and other languages). This is how you'll practice your *kana*.  
 
-Then, watch this video: [https://www.youtube.com/watch?v=_wZHqOghvSs](https://www.youtube.com/watch?v=_wZHqOghvSs)  
+Do this for 10 minutes. You can use this timer [here.](https://www.online-stopwatch.com/timer/10minutes/)
 
-It is a video by JapanesePod. This should probably be the only Japanese Pod video you should watch though, just sayin'.  
-
-Now, go on this website. [https://gohoneko.neocities.org/learn/kana.html](https://gohoneko.neocities.org/learn/kana.html)  
-
-Click "show/hide options"  
-
-Click "check all" for the categories (Hiragana, Hiragana combinations, Katakana, Katakana combinations). Don't worry about the fonts.  
-
-Type the correct romaji in the text box. This is how you'll practice your kana.  
-
-Do this for 10 minutes.  
-
-You can use this timer here: [https://www.online-stopwatch.com/timer/10minutes/](https://www.online-stopwatch.com/timer/10minutes/)  
-
+SCREENSHOT OF THE TIMER
 
 ## Day 2  
 
 ### Stage: Creating your own Japan at home  
 
-Practice on this site [https://gohoneko.neocities.org/learn/kana.html](https://gohoneko.neocities.org/learn/kana.html) for 10 minutes.  
-Timer here: [https://www.online-stopwatch.com/timer/10minutes/](https://www.online-stopwatch.com/timer/10minutes/).
-Do not forget that all kana must be enabled.  
+Practice on [that website](https://gohoneko.neocities.org/learn/kana.html) for 10 minutes. [Here's the timer.](https://www.online-stopwatch.com/timer/10minutes/). Don't forget that all *kana* must be enabled.  
 
-Surrounding your daily life with Japanese is the most important part of the immersion method.  
+Surrounding your daily life with Japanese is the most important part of the immersion method. It may be hard to decide, but you'll need to find content that interests you, and you'll need to make consuming it a habit. Slice of life anime is a good place to start. There are many, many anime that have simple Japanese. Here are some suggestions (but you can use anything you want):
 
-It may be hard to decide, but you'll need to find content that interests you and you'll need to make consuming it a habit.  
+- [Love Live! (Any)](https://en.wikipedia.org/wiki/Love_Live!)
+- [Non Non Biyori](https://en.wikipedia.org/wiki/Non_Non_Biyori)
+- [Kimetsu no Yaiba](https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba)
+- [Koe no Katachi](https://en.wikipedia.org/wiki/A_Silent_Voice_(film))
+- [Hotarubi no Mori e](https://en.wikipedia.org/wiki/Hotarubi_no_Mori_e)
+- [Toki wo Kakeru Shoujo](https://en.wikipedia.org/wiki/The_Girl_Who_Leapt_Through_Time_(2006_film))
+- [Himouto! Umaru-chan](https://en.wikipedia.org/wiki/Himouto!_Umaru-chan)
+- [Nakitai Watashi wa Neko o Kaburu](https://en.wikipedia.org/wiki/A_Whisker_Away)
+- [YuruYuri](https://en.wikipedia.org/wiki/YuruYuri)
+- [PreCure (Any)](https://en.wikipedia.org/wiki/Pretty_Cure)
+- [Gabriel DropOut](https://en.wikipedia.org/wiki/Gabriel_DropOut)
+- [Gakuen Utopia Manabi Straight!](https://en.wikipedia.org/wiki/Gakuen_Utopia_Manabi_Straight!)
+- [K-On!](https://en.wikipedia.org/wiki/K-On!)
+- [Ao Haru Ride](https://en.wikipedia.org/wiki/Ao_Haru_Ride)
+- [Usagi Drop](https://en.wikipedia.org/wiki/Bunny_Drop)
+- [Flying Witch](https://en.wikipedia.org/wiki/Flying_Witch)
+- [Byousoku 5 Centimeter](https://en.wikipedia.org/wiki/5_Centimeters_per_Second)
+- [Kiniro Mosaic](https://en.wikipedia.org/wiki/Kin-iro_Mosaic)
+- [New Game!](https://en.wikipedia.org/wiki/New_Game!)
 
-Slice of life is a good place to start.  
+See [Anime Resources](https://learnjapanese.moe/resources/#anime) for places to find anime. Downloading the anime is preferred because it makes it easier to carry your anime library portably.  
 
-There are many, many anime that have simple Japanese.  
-
-Here are some suggestions (but you can use anything you want):  
-
-Love Live! (Any)  
-Non Non Biyori  
-Kimetsu no Yaiba  	
-Koe no Katachi  
-Hotarubi no Mori e    
-Toki wo Kakeru Shoujo    
-Himouto! Umaru-chan  
-Nakitai Watashi wa Neko o Kaburu  
-Yuru Yuri  
-Precure (Any)  
-Gabriel Dropout  
-Gakuen Utopia Manabi Straight  
-K-on  
-Ao haru Ride  
-Usagi Drop  
-Flying Witch  
-Byousoku 5 Centimeter  
-Kiniro Mosaic  
-New Game  
-
-See [Anime Resources](https://learnjapanese.moe/resources/#anime) for places to find anime. Downloading the anime is preferred because it makes it easier to bring the anime portably.  
-
-**Q: Everything here is so boooooring!!!! I'd rather watch something actually good!**
+**Q: But everything here is so boooooring!!!! I'd rather watch something actually good!**
 
 A: And I like your way of thinking! Immersion is all about spending time with content that interests you. So please, don't limit yourself to my suggestions.  
 
