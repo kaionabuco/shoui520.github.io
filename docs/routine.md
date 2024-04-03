@@ -199,87 +199,39 @@ Click on the cog icon next to the *Kaishi 1.5k* deck. Go to *Options*. Change **
 
 Just some Anki know-how.
 
-You also need to change the **Learning steps** to `1m 5m 10m`.  
+You also need to change the **Learning steps** to `1m 5m 10m`. Change **Insertion order**, to **Sequential (oldest cards first)**. Under the **Lapses** section, change the *Relearning Steps* to `10m`. Under the **Display Order** section, change the *New/review order* to **Show before reviews**. Then click on *Save*.  
 
-Change **Insertion order**, to **Sequential (oldest cards first)**  
+I also want you to install the *Speed Focus Mode* Anki add-on. I'll explain why later, but let's just install it now. Click on *Tools* at the top of Anki, and click *Add-ons*. Click **Get Add-ons...**. Paste this code into the box: `1046608507` and click **OK**. You'll need to restart Anki: close it, and then launch it back up.
 
-Under the **Lapses** section, change the *Relearning Steps* to `10m`.  
+Click the cog icon next to the *Kaishi 1.5k* deck. Hold the ++shift++ key and click *Options*. A different looking menu with some red text should open. (If it did not, you did it wrong. You need to hold ++shift++ while clicking *Options*).  
 
-Under the **Display Order** section, change the *New/review order* to **Show before reviews**.  
-
-Now click *Save*.  
-
-I also want you to install the *Speed Focus Mode* Anki add-on. I will explain why later, but let's just install it now.  
-
-Click on *Tools* at the top of Anki, and click *Add-ons*.  
-
-Click **Get Add-ons...**.   
-
-Paste this code into the box: `1046608507` and click **OK**.
-
-You need to restart Anki. Close Anki, and launch it back up.  
-
-Click the cog icon next to the *Kaishi 1.5k* deck.  
-
-Hold the ++shift++ key and click *Options*.  
-
-A different looking menu with some red text should open. (If it did not, you did it wrong. You need to hold ++shift++ while clicking *Options*).  
-
-In the *General* tab, there are a few settings you need to change.  
-
-Change *Automatically play alert* to `15` seconds.  
-
-Change *Automatically show answer* to `30` seconds.  
-
-Change *Automatically rate 'again'* to `180` seconds.  
+In the *General* tab, there are a few settings you need to change. Change *Automatically play alert* to `15` seconds. Change *Automatically show answer* to `30` seconds. Change *Automatically rate 'again'* to `180` seconds.
 
 Now let's get to studying the deck.  
 
-When you click on the name of the deck, you'll be able to start learning by clicking *Study now*  
+When you click on the name of the deck, you'll be able to start learning by clicking *Study now*.
 
-First thing you'll see is an explanation card. Feel free to delete this one.
+First thing you'll see is an explanation card. Please delete it.
 
-The next card is a word that is using kanji.  
+The next card is a word that is using kanji. If you click "Show answer", it reveals the *back* of the card, and you will be able to find out how to read the word on the front.  
 
-If you click "Show answer", it reveals the *back* of the card, and you will be able to find out how to read the word on the front.  
+The deck has other features, such as word meaning, audio, sentence and translations. BUt the only things you should be memorising are the **word on the front**, the **reading**, and the **word meaning**. Do not waste your brain power on thinking about anything else.  
 
-The deck has other features, such as word meaning, audio, sentence and translations.  
-
-BUT the only things you should be memorising is the **word on the front**, **reading** and **word meaning**.
-
-Do not waste your brain power on thinking about anything else.  
-
-Look at the bottom bar. There are 4 buttons. These are your grading options. 
-
-In Anki, you have to manually grade yourself.   
+Look at the bottom bar: there are 4 buttons, they're your grading options. In Anki, you have to manually grade yourself.   
 
 Think of **Again** as "I GOT IT WRONG". **Easy** as SUPER EASY, **Good** as normal/usual/eh, and **Hard** as "I struggled with this it took me a while BUT I still got it right".  
 
 Because this is a card that is **seen for the first time**, press "Again".  
 
-When seeing "unseen cards" (cards that you haven't graded yet.) it is common and best practice to reveal the back (by pressing Show answer), then read the important information (Reading and Meaning) and then pressing **Again**.  
+When seeing "unseen cards" (cards that you haven't graded yet.) it is common and best practice to reveal the back (by pressing Show answer), then read the important information (Reading and Meaning) and then pressing **Again**. This will send the card to the "Learning" pile. You see the red number on the bottom bar turned from 0 to 1? That red number is the learning pile.  
 
-This will send the card to the "Learning" pile. 
+- Blue: New pile  
+- Red: Learning pile  
+- Green: Review pile  
 
-You see the red number on the bottom bar turned from 0 to 1?  
+The learning pile means Anki will show you the card multiple times so you can remember it. Getting a "Good" enough times will cause the card to graduate. This means you'll see it in *x* number of days (Usually 1 day for new cards). When the learning pile (red number) goes down that means the card has graduated.  
 
-The red number is the learning pile.  
-
-Blue: New pile  
-Red: Learning pile  
-Green: Review pile  
-
-The learning pile means Anki will show you the card multiple times so you can remember it. 
-
-Getting a "Good" enough times will cause the card to graduate. This means you'll see it in *x* number of days (Usually 1 day for new cards).  
-
-When the learning pile (red number) goes down that means the card has graduated.  
-
-**Do not spend a long time looking at the same card**  
-
-When you don't know the word even after 15 seconds of looking at it, then looking at it for even longer doesn't mean you'll suddenly remember it.  
-
-So, the purpose of the *Speed Focus Mode* add-on is to stop you from spending too much time on one card.  
+**Do not spend a long time looking at the same card.** When you don't know the word even after 15 seconds of looking at it, then looking at it for even longer doesn't mean you'll suddenly remember it. So, the purpose of the *Speed Focus Mode* add-on is to stop you from spending too much time on one card.  
 
 **My card learning method**  
 
@@ -299,29 +251,13 @@ Step 13: I grade myself depending on if the meaning *and* reading I thought it w
 Step 14: I usually use the Good button if I got it correct. Again if it wasn't correct.  
 
 
-After you have successfully learned 20 cards, you can consider your Anki done for the day.  
-
-The next day you can expect to see some cards in the green (Review) pile. 
-
-You will also have a fresh batch of 20 new cards!  
+After you have successfully learned 20 cards, you can consider your Anki done for the day. Expect to see some cards in the green (Review) pile tomorrow. You'll also have a fresh batch of 20 new cards!  
 
 Please make sure you do Anki every day!   
 
 **Q: Should I worry if I forget a lot?**  
 
-A: No.  
-
-Anki is made for things you're likely to forget.  
-
-You are very likely to forget words of a language you just started learning.  
-
-I don't think it is strange if you forget more than half of what you learn when a day passes by.  
-
-You're likely to forget these words without Anki, so that's why you need to keep Anki'ing them so you can finally learn the word.  
-
-In other words, just keep doing Anki.  
-
-If this continues for a while then you might want to think back on your method of doing Anki.   
+A: No, you shouldn't. Anki is made for things you're likely to forget, such as words of a language you just started learning. I don't think it's strange if you forget more than half of what you learn when a day passes by. You're likely to forget these words without Anki, so that's why you need to keep Anki'ing them, so you can finally learn the words. In sum, just keep doing Anki. If the issue persists, then you might want to think back on your method of doing Anki.   
 
 **Q: Leeches (Words not sticking)**  
 
@@ -355,15 +291,11 @@ After you've done that lemme teach you the most useful functions.
 ++win++++space++: Switch input methods (only effective if you have more than one input method (example `English (UK)` and `Japanese (Japan)`)  
 
 
-Now I think it is about time you do your daily immersion.  
+Now I think it's about time you do your daily immersion.  
 
-I hope the dice game helped you get used to immersing.  
+Hopefully, the dice game helped you get used to immersing. I recommend you decide on a set number of anime episodes to use for immersion per day. If you can't decide, then by all means, let the dice decide for you! 
 
-I recommend you decide on a set number of anime episodes to use for immersion per day.  
-
-If you can't decide, then by all means, let a dice decide for you! 
-
-[Roll a 4-sided dice](https://www.google.com/search?q=roll+a+4+sided+dice)   
+[Roll a 4-sided die](https://www.google.com/search?q=roll+a+4+sided+dice)!
 
 ## Day 5  
 
