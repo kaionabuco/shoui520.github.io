@@ -29,7 +29,7 @@ INSERT IMAGE OF THE KANA CHART
 
 Then, watch the following video by JapanesePod.
 
-EMBED https://www.youtube.com/watch?v=_wZHqOghvSs)
+EMBED https://www.youtube.com/watch?v=_wZHqOghvSs
 
 This is probably be the only JapanesePod video you should watch though, just sayin'.
 
@@ -197,8 +197,6 @@ Now you'll see the deck and a blue number next to the deck's name. That blue num
 
 Click on the cog icon next to the *Kaishi 1.5k* deck. Go to *Options*. Change **Maximum reviews/day** to `9999`. This just means "uncapped". The default is 200 and I don't think your cards will pile up that high if you do Anki every day but it's good practice to uncap your review limit.  
 
-Just some Anki know-how.
-
 You also need to change the **Learning steps** to `1m 5m 10m`. Change **Insertion order**, to **Sequential (oldest cards first)**. Under the **Lapses** section, change the *Relearning Steps* to `10m`. Under the **Display Order** section, change the *New/review order* to **Show before reviews**. Then click on *Save*.  
 
 I also want you to install the *Speed Focus Mode* Anki add-on. I'll explain why later, but let's just install it now. Click on *Tools* at the top of Anki, and click *Add-ons*. Click **Get Add-ons...**. Paste this code into the box: `1046608507` and click **OK**. You'll need to restart Anki: close it, and then launch it back up.
@@ -209,51 +207,38 @@ In the *General* tab, there are a few settings you need to change. Change *Autom
 
 Now let's get to studying the deck.  
 
-When you click on the name of the deck, you'll be able to start learning by clicking *Study now*.
+When you click on the name of the deck, you'll be able to start learning by clicking *Study now*. First thing you'll see is an explanation card, please delete it. The next card is a word written in *kanji*. If you click "Show answer", it reveals the *back* of the card, and you will be able to find out how to read the word on the front. The deck also has other features, such as word meaning, audio, sentence and translations. But the only things you should be memorising are the **word on the front**, the **reading**, and the **word meaning**. Don't waste brain power on anything else.  
 
-First thing you'll see is an explanation card. Please delete it.
+Look at the bottom bar: there are 4 buttons, they're your grading options. In Anki, you have to manually grade yourself. Think of **Again** as "I GOT IT WRONG". **Easy** as "SUPER EASY", **Good** "as normal/usual/eh", and **Hard** as "I struggled with this it took me a while BUT I still got it right".  
 
-The next card is a word that is using kanji. If you click "Show answer", it reveals the *back* of the card, and you will be able to find out how to read the word on the front.  
+Since you're seeing this *kanji* card for the first time, press "Again".  
 
-The deck has other features, such as word meaning, audio, sentence and translations. BUt the only things you should be memorising are the **word on the front**, the **reading**, and the **word meaning**. Do not waste your brain power on thinking about anything else.  
+When seeing "unseen cards" (cards that you haven't graded yet), it's good practice to reveal the back (by pressing Show answer), then read the important information (Reading and Meaning), and then pressing **Again**. This will send the card to the "Learning" pile. You see the red number on the bottom bar turned from 0 to 1? That red number is the learning pile.  
 
-Look at the bottom bar: there are 4 buttons, they're your grading options. In Anki, you have to manually grade yourself.   
+- Blue: New pile.
+- Red: Learning pile.
+- Green: Review pile.
 
-Think of **Again** as "I GOT IT WRONG". **Easy** as SUPER EASY, **Good** as normal/usual/eh, and **Hard** as "I struggled with this it took me a while BUT I still got it right".  
+The learning pile means Anki will show you the card multiple times so you can remember it. Getting a "Good" enough times will *graduate* the card. This means you'll see it in *x* number of days (Usually 1 day for new cards). When the learning pile (red number) goes down, that means the card has graduated.  
 
-Because this is a card that is **seen for the first time**, press "Again".  
+**Do not spend a long time looking at the same card.** When you don't know how to read that word even after 15 seconds of looking at it, then looking at it for even longer won't suddenly make you remember it. So, the purpose of the *Speed Focus Mode* add-on is to stop you from spending too much time on one card.  
 
-When seeing "unseen cards" (cards that you haven't graded yet.) it is common and best practice to reveal the back (by pressing Show answer), then read the important information (Reading and Meaning) and then pressing **Again**. This will send the card to the "Learning" pile. You see the red number on the bottom bar turned from 0 to 1? That red number is the learning pile.  
+**My card learning method:**  
 
-- Blue: New pile  
-- Red: Learning pile  
-- Green: Review pile  
+1) Look at the card.  
+2) Check whether it is a new card or not.  
+3) Reveal the back (Show answer) if it's a new card.  
+4) Read the pronunciation.  
+5) Read the meaning.  
+6) Play the audio for the pronunciation.  
+7) Press "Again".
+The above 7 steps will be the same if the next card is also a new card, but...  
+8) If the next card isn't new, try to recall the word's meaning and the pronunciation.*
+9) Reveal the back.
+10) Press "Good" if you could recall both the meaning and the pronunciation. Otherwise, press "Again".
+*Sometimes there's more than 1 meaning, but recalling 1 meaning is enough.
 
-The learning pile means Anki will show you the card multiple times so you can remember it. Getting a "Good" enough times will cause the card to graduate. This means you'll see it in *x* number of days (Usually 1 day for new cards). When the learning pile (red number) goes down that means the card has graduated.  
-
-**Do not spend a long time looking at the same card.** When you don't know the word even after 15 seconds of looking at it, then looking at it for even longer doesn't mean you'll suddenly remember it. So, the purpose of the *Speed Focus Mode* add-on is to stop you from spending too much time on one card.  
-
-**My card learning method**  
-
-Step 1: Look at the card.  
-Step 2: Recognize whether it is a new card or not.  
-Step 3: Reveal the back (Show answer) after realizing it is a new card.  
-Step 4: Read the reading.  
-Step 5: Read the meaning.  
-Step 6: Let the audio play.  
-Step 7: For now, press "Again"  
-Step 8: Above 7 steps will be the same if the next card is also a new card but...  
-Step 9: If the next card is one I've already seen before, I test my knowledge.  
-Step 10: I try to recall the word's meaning and the reading.  
-Step 11: There are sometimes more than 1 meaning. Only 1 meaning is enough.  
-Step 12: I reveal the back.  
-Step 13: I grade myself depending on if the meaning *and* reading I thought it was, was correct.  
-Step 14: I usually use the Good button if I got it correct. Again if it wasn't correct.  
-
-
-After you have successfully learned 20 cards, you can consider your Anki done for the day. Expect to see some cards in the green (Review) pile tomorrow. You'll also have a fresh batch of 20 new cards!  
-
-Please make sure you do Anki every day!   
+After you have successfully learned 20 cards, consider your Anki done for the day. Expect to see some of today's cards in the green (Review) pile tomorrow. You'll also have a fresh batch of 20 new cards! And please, don't forget to do Anki every day!
 
 **Q: Should I worry if I forget a lot?**  
 
@@ -261,39 +246,21 @@ A: No, you shouldn't. Anki is made for things you're likely to forget, such as w
 
 **Q: Leeches (Words not sticking)**  
 
-Leeches are when you keep forgetting the word no matter what.  
-
-Memory works by picking up on cues.  
-
-When words don't stick, it means there are multiple things in the wider scope of the word that makes it so your mind isn't picking on any cues. 
-
-In easier terms, you need more, or different information than the information on the card.  
-
-For these leeches, I recommend looking at them in example sentences. You can use [Jisho.org with the #sentence tag](https://jisho.org/search/%20%23sentences%20%E8%B8%8F%E3%82%80) to see example sentences with an English translation.  
-
+Leeches are cards you can't recall no matter what. Memory works by picking up on cues. When words don't stick, it means there are multiple things in the wider scope of the word that hinder you from picking up on any cues. In sum, you need more, or different information from what's on the card. To ameliorate the issue, I recommend looking at these leeches in example sentences. You can use [Jisho.org with the #sentence tag](https://jisho.org/search/%20%23sentences%20%E8%B8%8F%E3%82%80) to see example sentences with English translations.  
 
 **Setting up a Japanese Keyboard**  
 
-Now let's set up a Japanese keyboard. 
+Now let's set up your Japanese keyboard. Read [this article](http://www.miamioh.edu/cas/academics/centers/ilrc/technical-support/jpn-win-keyboard-entry/). It's pretty good. After you're done, it's time to learn some of the more useful functions.
 
-Read this article: [http://www.miamioh.edu/cas/academics/centers/ilrc/technical-support/jpn-win-keyboard-entry/](http://www.miamioh.edu/cas/academics/centers/ilrc/technical-support/jpn-win-keyboard-entry/)  
+++alt++++grave++ (backquote, the key left of 1): Switches from latin characters (the ones we use to type in English) to *kana*, which should look somewhat like this: かな. if you type "kana" while the symbol on the taskbar is an "A", it will just come out as "kana", but if the symbol is an 「あ」, then it will come out as 「かな」.
 
-The article is very good. 
+++space++: Conversion. When you want to type a *kanji*, you have to type its reading, and then use space to convert it. Due to Japanese's... japaneseness, there are multiple conversion candidates for the *kana* you entered. Let's try a word you probably learned today, like 「言う」. To type that in *kanji*, you have to switch to the *kana* input mode (the あ symbol) and type 「いう」, then press space until 「言う」 is selected, and then press ++enter++. If you want to enter *kana* without converting, just type what you want and press enter.  
 
-After you've done that lemme teach you the most useful functions.
+++f7++: *Katakana* conversion. 
 
-++alt++++grave++ (backquote)(the key left of 1): Switch from entering just letters like these to kana like this: かな. if you type "kana" when the symbol on the taskbar is an "A" it will just be "kana" but if the symbol is あ then it will become "かな"
+++win++++space++: Switches input methods (only effective if you have more than one input method (e.g. `English (UK)` and `Japanese (Japan)`)  
 
-++space++: Conversion. When you want to type a kanji, you have to type its reading, and then use space to convert it. Due to Japanese's... japanesesiness, there are multiple conversion candidates for the kana you entered. Let's try a word you probably just learned, like 言う. To type that in kanji you have to switch to kana input mode (the あ symbol) and type いう, then press space until 言う is selected, and then press ++enter++. If you want to enter kana without converting, just type what you want and press enter.  
-
-++f7++: Katakana conversion. 
-
-++win++++space++: Switch input methods (only effective if you have more than one input method (example `English (UK)` and `Japanese (Japan)`)  
-
-
-Now I think it's about time you do your daily immersion.  
-
-Hopefully, the dice game helped you get used to immersing. I recommend you decide on a set number of anime episodes to use for immersion per day. If you can't decide, then by all means, let the dice decide for you! 
+Now I think it's about time you do your daily immersion. Hopefully, the dice game helped you get used to immersing. I recommend you decide on a set number of anime episodes to use for immersion per day. If you can't decide, then by all means, let the dice decide for you! 
 
 [Roll a 4-sided die](https://www.google.com/search?q=roll+a+4+sided+dice)!
 
