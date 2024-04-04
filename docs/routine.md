@@ -266,98 +266,60 @@ Now I think it's about time you do your daily immersion. Hopefully, the dice gam
 
 ## Day 5  
 
-Go on this site [https://gohoneko.neocities.org/learn/kana.html](https://gohoneko.neocities.org/learn/kana.html) and practice kana for 10 minutes. [https://www.online-stopwatch.com/timer/10minutes/](https://www.online-stopwatch.com/timer/10minutes/).  
+Go to [that website](https://gohoneko.neocities.org/learn/kana.html) and practice *kana* for 10 minutes. Here's the [timer](https://www.online-stopwatch.com/timer/10minutes/).
 
-Now do your daily Anki.  
+Now to your daily Anki. Anki is tough in the beginning, but it gets better, I promise!  
 
-Anki is tough in the beginning.  
+Your Anki today will be slightly different. You'll have a blue number AND a green number next to your deck. The **green** number is your **reviews**. Make sure you stay on top of them! If you ever become unable to keep up with piling reviews, then reduce your new cards per day limit!  
 
-But it gets better I promise!  
+After you've done your Anki for the day, you should get onto your daily grammar study. **3 Cure Dolly videos!**  
 
-Your Anki today will be slightly different. You'll have a blue number AND a green number next to the deck.  
-
-The **green** number is your **reviews**.  
-
-Make sure you stay on top of your reviews!  
-
-Important word of advice: If you ever become unable to keep up with piling reviews, then reduce your new cards per day limit!  
-
-After you've done your Anki for the day, you should get onto your daily grammar study.  
-
-**3 Cure Dolly videos!**  
-
-After that, it's just your daily immersion.  
+Then, your daily immersion.  
 
 **Q: How many episodes will it be???**  
 
-A: [Roll a 4-sided dice](https://www.google.com/search?q=roll+a+4+sided+dice)   
+A: [Roll a 4-sided dice](https://www.google.com/search?q=roll+a+4+sided+dice)!
 
 **Q: What should I be looking out for when listening?**
 
-A: The sounds of it, the speaking patterns, the "words" that pop up a lot, the words that you learned, the grammar that you learned etc.  
-
-Every little bit counts.  
+A: The sounds, the speaking patterns, the "words" that pop up a lot, the words that you learned, the grammar that you learned, etc. Every little bit counts.  
 
 ## Day 6  
 
 ### Stage: First ever reading practice: Japanese subtitles! 
 
-Today you'll start reading practice for the first time!  
+Today, you'll start reading practice for the first time! It's going to be quite tough, but don't worry if you can't understand it! Every bit counts!  
 
-It is going to be quite tough.  
-
-But don't worry if you don't understand it!  
-
-Every bit counts!  
-
-First, practice kana for 10 minutes.  
+First, practice *kana* for 10 minutes.
 
 [Kana Practice Site](https://gohoneko.neocities.org/learn/kana.html)  
 [10 Minute Timer](https://www.online-stopwatch.com/timer/10minutes/)  
 
-After that, go on to doing your Anki.  
+After that, do your daily Anki. When you're done, watch your 3 Cure Dolly videos.  
 
-After your Anki, do your 3 Cure Dolly videos.  
+Then let's get on to reading. Your first reading content will be anime with Japanese subtitles. It's kind of tricky to set it up, but let's go through it.  
 
-Then let's get on to reading.  
+First, you will need Yomitan (formerly Yomichan). Click on this [link](/yomichan) to read my guide on it.  
 
-Your first reading content will be anime with Japanese subtitles.  
-
-It is kind of tricky to set it up, but let's go through it.  
-
-First, you will need Yomichan.
-
-Click on this [link](/yomichan) to read my guide on it.  
-
-After you have set up Yomichan, follow the rest of these steps. 
+After you have set it up, follow the rest of these steps. 
 
 In your Chrome extension settings (`chrome://extensions`), enable "**Developer mode**" in the **top right**.  
 
 Now download the [asbplayer Extension](https://github.com/killergerbah/asbplayer/releases)  
 
-It has to be installed manually; it is not on the Chrome Web Store.  
+It has to be installed manually, as it is not on the Chrome Web Store.  
 
 You need to unzip the .zip file first.  
 
-Now you go in your Chrome extension settings and click "Load unzipped"  
+Now you go in your Chrome extension settings and click "Load unzipped". Choose the unzipped folder. Restart your browser.  
 
-Choose the unzipped folder.  
+Now you need to get subtitle files for the anime you want to watch. Let's just use... Love Live (2013) as an example.  
 
-Restart your browser.  
+The website [Kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) has the largest library of Japanese subtitles for anime.   
 
-Now you need to get subtitle files for the anime you want to watch.  
+**(NOTE: Kitsunekko may be down sometimes. You can view a backup [here](/kitsubackup.html#/ja))**    
 
-Let's just use... Love Live (2013) as an example.  
-
-The site [Kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) has the biggest collection of Japanese subtitles for anime.   
-
-**(NOTE: The site has a tendency of going down randomly. You can view a backup [here](/kitsubackup.html#/ja))**    
-
-I scrolled down to "Love Live!", and downloaded the "Love Live! (01-13) (Webrip).zip" file.  
-
-After unzipping the file, I got a bunch of .SRT files. 
-
-.SRT files are subtitle files.  
+I scrolled down to "Love Live!", and downloaded the "Love Live! (01-13) (Webrip).zip" file. After unzipping it, I got a bunch of .SRT files. These are subtitle files.
 
 Now what you need to do is drag and drop an .SRT file onto a video.  
 
@@ -392,21 +354,11 @@ This page [https://killergerbah.github.io/asbplayer/](https://killergerbah.githu
 
 So, what's the routine?  
 
-**Watch** the anime with Japanese subtitles first.  
-
-Then focus your attention on **just reading** it.  
+**Watch** the anime with Japanese subtitles first. Then focus your attention on **just reading** it.  
 
 **Q: How many words do I look up?**  
 
-A: I think you should decide this using a 20-sided dice, per episode.  
-
-[Click here for 20-sided dice](https://www.google.com/search?q=roll+a+20+sided+dice)  
-
-Roll!  
-
-After you've looked up your amount just *watch* the rest with Japanese subs.  
-
-If anything piques your interest, then feel free to look it up!  
+A: I think you should decide this using a 20-sided die, per episode. [Click here to roll a 20-sided die](https://www.google.com/search?q=roll+a+20+sided+dice)! After you've filled your quota, just *watch* the rest with Japanese subs, but if anything piques your interest, then do feel free to look it up!
 
 **Q: When watching with Japanese subs, do I try to read everything on the screen?**
 
@@ -416,27 +368,23 @@ A: No. I generally recommend looking up the number of words the dice decided and
 
 A: Yes! Pause the video when you need to look up!  
 
-**Q: What is the point of the subtitles in a list?**  
+**Q: What is the point of putting subtitles in a list?**  
 
-A: You do it so you can do "raw reading practice".  
+A: You do it so you can do "raw reading practice". While the anime plays, you are doing half-reading, half-listening. When you remove the audio track and just read the subtitles in plain text, you are doing the equivalent of real reading!  
 
-When the anime playing, you are doing half-reading half-listening.  
+**Q: Does the die decide how many words I look up while watching the anime or while reading the subtitles in a list?**  
 
-When you remove the audio part and just read the subtitles in a list, you are doing the equivalent of real reading!  
-
-**Q: Does the dice decide how many words I look up while watching the anime or while reading the subtitles in a list?**  
-
-A: [Roll another 20 sided dice](https://www.google.com/search?q=roll+a+20+sided+dice) for when you read the anime.  
+A: [Roll another 20 sided die](https://www.google.com/search?q=roll+a+20+sided+dice) for when you read the anime.  
    
 **Q: How many episodes should I read?**  
 
-Focus on reading a single anime episode until you've looked up the amount of dice decided words.  
+A: Focus on reading a single anime episode until you've looked up the amount of dice decided words.  
 
-**Q: Is it possible to understand everything by spending 30 minutes spamming Yomichan on a sentence?**  
+**Q: Is it possible to understand everything by spending 30 minutes spamming Yomitan on a sentence?**  
 
-A: Short answer: No. Comprehension is a gradual process.  
+Short A: It isn't. Comprehension is a gradual process.  
 
-Long answer:  
+Long A:
 
 There are many things you will not understand just by using a dictionary.  
 
@@ -525,142 +473,78 @@ A: They exist for different purposes.
 I can't say which one is better because they have their own benefits and drawbacks.  
 
 Japanese subs: 
-Good: learn new words, reading practice  
-Bad: doesn't train raw listening ability, you might not pick up on things said in the audio  
+Pros: teaches new words, practises reading  
+Cons: doesn't train raw listening ability, you might not pick up on things said in the audio  
 
 Raw:  
 Good: trains raw listening ability and can attribute to speaking ability too. You will notice more than just watching with Japanese subtitles.  
 Bad: the words you dont know you just don't know.  
 
-**Q: What about subtitle tutor?**  
+**Q: What about the subtitle tutor method?**  
 
-A: You shouldn't be doing it all the time.  
-
-The only purpose is to give you an idea; context of what the audio is saying.  
-
-It gets tedious watching the same episode twice too.
-
-Without watching the episode in Japanese after you watch it in English, there is no point.  
-
-And using English subs as a crutch forever isn't a good idea.  
-
-It just makes your immersion more effective in the beginning because immersion works better **when you have an idea of what is going on**.  
-
-Getting rid of translations and training yourself to understand the language on its own is how you'll get better at Japanese in the future.  
-
-Japanese subs are better because they give you the opportunity to learn the actual words that are being used in the anime. (Which is a lot of words, btw.)  
-
+A: You shouldn't be doing it all the time. Its only purpose is to give you some context on the audio track, and it gets tedious watching the same episode twice too. It's pointless if you don't watch the episode in Japanse after watching it in English, and using English subs as a crutch forever isn't a good idea. It just makes your immersion more effective in the beginning because immersion works better **when you have an idea of what's going on**. Getting rid of translations and training yourself to understand the language on its own is how you'll get better at Japanese in the future. Japanese subs are better than the subtitle tutor method because they give you the opportunity to learn the actual words that are being used in the anime (which are a lot, btw).
 
 ## Day 7  
 
-**Note about kana practice:**  
-
-Experience differs greatly from person to person. 
-
-Some of you may already be comfortable with the kana after just 6 days.  
-
-Others may need more practice.  
-
-I think you should reduce the time spent on kana practice from **10 minutes** to **5 minutes**.  
-
-You will be exposed to Japanese text a lot more going forward.  
+**Note about kana practice:** Experience differs greatly from person to person. Some of you may already be comfortable with the kana after just 6 days, while others may need more practice. I think you should reduce the time spent on kana practice from **10 minutes** to **5 minutes**. You will be exposed to Japanese text a lot more going forward.  
 
 ### Stage: Learning how to balance as a beginner.    
 
 Your tasks for today are as follows.  
 
-Step 1. Do your Anki.  
-Step 2. Cure Dolly routine.  
-Step 3. Immerse!! (Details below)  
+1) Anki.
+2) Cure Dolly routine.
+3) Immerse!! (Details below)  
 
-Focusing on a particular area of your Japanese (e.g., listening or reading) is good.  
+Focusing on a particular area of your Japanese (e.g., listening or reading) is good, but how will you decide whether today is a day where you'll focus on listening or reading? For an advanced learner that can already read books and understand a lot of things, it's obvious, yet for a beginner, it can be tough to decide.  
 
-But how will you decide whether today is a day where you'll focus on listening or reading?  
+The simple answer? [Flip a coin](https://www.google.com/search?q=flip+a+coin).  
 
-For an advanced learner that can already read books and understand a lot of things, this is more obvious.  
-
-But for a beginner, it can be tough to decide.  
-
-The simple answer?  
-
-[Flip a coin](https://www.google.com/search?q=flip+a+coin).  
-
-Heads = Listening day  
-Tails = Reading day  
+Heads = Listening day.  
+Tails = Reading day.  
 
 ## Day 8
 
-### Stage: The elephant in the room... kanji!  
+### Stage: The elephant in the room... *kanji!* 
 
-Kanji look like scribbles, don't they?  
+Kanji look like scribbles, don't they? For a beginner, they look nonsensical. For an experienced learner, they look like actual shapes and familiar faces.  
 
-For a beginner, they look nonsensical.  
+Every kanji can be broken down into fundamental shapes. Also known as radicals, or "primitives" (term used in [Remembering the Kanji](https://en.wikipedia.org/wiki/Remembering_the_Kanji_and_Remembering_the_Hanzi)).
 
-But for an experienced learner, they look like actual shapes and familiar faces.  
+Example: 萌 = 艹 + 日 + 月  
+Example: 踏 = 足 + 水 + 日  
+Example: 足 = 口 + 龰  
+Example: 将 = 丬 + 爫 + 寸  
 
-Every kanji can be broken down into fundamental shapes. Also known as radicals. Or "primitives" (term used in Remembering the Kanji).
+I recommend you do the "Recognition Remembering the Kanji 450" Anki deck. You can [download it here](https://mega.nz/file/2SJiWC4b#hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ). The purpose of this deck is to steadily give you the ability to see *kanji* as a combination of consistent shapes.  
 
-Example: 萌 = 艹+日+月  
-Example: 踏 = 足+水+日  
-Example: 足 = 口+龰  
-Example: 将 = 丬+爫+寸  
-
-
-I recommend you do the "Recognition Remembering the Kanji 450" Anki deck.  
-
-[Download it here](https://mega.nz/file/2SJiWC4b#hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ)  
-
-The purpose of the deck is to steadily give you the ability to see kanji as a combination of consistent shapes.  
-
-Click the cog icon next to the 日本語 parent deck.  
-
-Now click Options.  
+Click on the cog icon next to the 日本語 parent deck. Then click on Options.  
 
 There is a drop-down menu at the top of this window.  
 
-Change Default to *Recognition RTK*.  
+Change Default to *Recognition RTK*. Change **New cards/day** to `10`. Change the **Learning steps** to `1m 5m 10m`. Change **Insertion order**, to *Sequential (oldest cards first).* Under the **Lapses** section, change the *Relearning Steps* to `10m`. Under the **Display Order** section, change the *New/review order* to **Show before reviews**.  Then Save.  
 
-Change **New cards/day** to `10`  
-
-Change the **Learning steps** to `1m 5m 10m`.  
-
-Change **Insertion order**, to *Sequential (oldest cards first)*  
-
-Under the **Lapses** section, change the *Relearning Steps* to `10m`.  
-
-Under the **Display Order** section, change the *New/review order* to **Show before reviews**.   
-
-Click Save.  
-
-When you click Study now, the first cards will be explanation cards.  
-
-After you read them, and understood the usage of the deck, I recommend suspending them.  
+When you click on Study now, the first cards will be explanation cards. After you read them, and understand how to use the deck, I recommend suspending them.  
 
 You will be working on this deck alongside the Kaishi 1.5k deck.  
 
-This deck will NOT help you read kanji.  
-This deck will NOT help you write kanji from memory.  
-This deck will NOT help you guess the meanings of words.  
+- This deck will NOT help you read *kanji.*
+- This deck will NOT help you write *kanji* from memory.  
+- This deck will NOT help you guess the meanings of words.  
 
-This deck WILL help you see kanji as compositions of consistent shapes.  
-
-It is an important skill to have, because when you are learning Japanese for a long time you will come across a ton of words and you may confuse them if the kanji look too similar for you.  
+This deck WILL, however, help you see *kanji* as compositions of consistent shapes. It's an important skill to have, because when you're learning Japanese for a long time, you will come across a ton of words and you may confuse them if the kanji look too similar to you.  
 
 **Q: So, what do I need to do today?**
 
-1. Anki. Your Kaishi 1.5k deck and the RRTK deck.  
-2. Grammar. Watch 3 Cure Dolly videos.
-3. Immersion.  
+1) Anki. Both your Kaishi 1.5k deck and the RRTK deck.  
+2) Grammar. Watch 3 Cure Dolly videos.
+3) Immersion.  
 
 **Q: Immersion...?**
 
-Yes, you can do reading/watch with Japanese subs/raw listening/subtitle tutor.  
+Yes, you can read/watch with Japanese subs/raw listen/subtitle tutor. You can decide everything with a die and/or flipping a coin if you're uncertain, of course. 
 
-You can decide everything with a dice and flipping a coin if you're uncertain, of course.  
-
-I apologize if "immersion" is a vague term.  
-
-All of that stuff that you did with the anime and the subtitles and Yomichan is immersion.  
+I apologize if "immersion" is a vague term. All of that stuff that you did with the anime and the subtitles and Yomitan is what we call immersion. You can read more about it on my [Japanese Guide](/guide) if you want to.
 
 ## Day 9  
 
@@ -668,93 +552,63 @@ All of that stuff that you did with the anime and the subtitles and Yomichan is 
 
 Daily routine:
 
-1. Anki  
-2. Grammar  
-3. Immersion  
+- Anki.
+- Grammar.
+- Immersion.
 
-This is the fundamental process of the method. Keep doing what you're doing.  
-
-But longer hours = more improvement!  
-So, try and aim for longer immersion hours!  
+This is the fundamental process of the method. Keep doing what you're doing. But longer hours = more improvement! So try and aim for longer immersion hours!  
 
 **Q: I've been thinking about looking up a lot of words in reading, is this bad or good?**
 
-A: It's good! But please note if you make yourself look up a ton of words all the time, there is a risk of **burning out** and loss of enjoyment. 
-
-This method relies on **your consistency**.  
-
-To stay consistent, you need to make sure you're setting yourself manageable goals.  
+A: It's good! But please note if you make yourself look up a ton of words all the time, there is a risk of **burning out** and loss of enjoyment. This method relies on **your consistency**. To stay consistent, you need to make sure you're setting yourself manageable goals.  
 
 ## Day 10  
 
 Daily routine:
 
-1. Anki  
-2. Grammar  
-3. Immersion  
+- Anki.
+- Grammar.
+- Immersion.
 
-You may want to look into [Condensed Audio](/resources#condensed-audio), this is a way to maximize the efficiency of passive listening.  
+You may want to look into [Condensed Audio](/resources#condensed-audio), it's a way to maximize the efficacy of passive listening.  
 
-Passive listening is when you listen to Japanese audio when you are doing other things.  
-
-While passive listening there are moments where you may be paying attention to the Japanese.  
-
-Think of it as filling in the silence with Japanese.  
-
-Or, listening to Japanese at every possible opportunity. 
-
-Condensed audio removes non-speech parts of the audio, making it more efficient.  
-
-If you have wireless earbuds, listening all the time becomes a lot easier.  
-
-If you've been watching *Love Live! (2013)*, I made condensed audio for it a long while ago, which you can find [here](https://mega.nz/folder/sdB1mC6T#X_fYeasMb64i3tAf3LeYEA)  
+Passive listening is when you listen to Japanese audio when you are doing other things. While passive listening, there are moments where you may be paying attention to the Japanese. Think of it as filling in the silence with Japanese, or listening to Japanese at every possible opportunity. Condensed audio removes non-speech parts of the audio, making it more efficient. If you have wireless earbuds, listening all the time becomes a lot easier. If you've been watching *Love Live! (2013)*, I made condensed audio for it a long while ago, which you can find [here](https://mega.nz/folder/sdB1mC6T#X_fYeasMb64i3tAf3LeYEA).
 
 ## Day 11  
 
 Daily routine:
 
-1. Anki  
-2. Grammar  
-3. Immersion  
-
+- Anki.
+- Grammar.
+- Immersion.
 
 **Q: MUST I do all my daily tasks in this exact order you have written?**  
 
-A: Nononono! Absolutely not.  
-
-You can even do immersion first thing, or grammar first thing, or even Anki right at the end of the day. This is an area where people just have preferences and things that work better for them.  
-
-**Note: Just make sure you don't miss Anki!**  
+A: Nononono! Absolutely not. You can even do immersion first thing, or grammar first thing, or even Anki right at the end of the day. This is an area where people just have preferences and things that work better for them. **Just make sure you don't miss Anki!**  
 
 ## Day 12  
 
 Daily routine:
 
-1. Anki  
-2. Grammar  
-3. Immersion  
+- Anki.
+- Grammar.
+- Immersion.
 
-Yes, another day of immersing. Maybe day 12 can be *Non-Non Biyori* day. (Unless you've already immersed with it :P)     
+Yes, another day of immersing. Maybe day 12 can be *Non-Non Biyori* day (unless you've already immersed with it :P).
 
 **Q: Can I listen to the same things over and over again?**  
 
-A: Absolutely! But if it gets boring, then switch to new content.  
-
-Listening to the same content has huge benefits, but it can get boring and also you miss opportunities to hear new, useful things.   
+A: Absolutely! But if it gets boring, then switch to new content. Listening to the same content has huge benefits, but it can get boring, and you miss opportunities to hear new, useful things.   
 
 ## Day 13  
 
 Daily routine:
 
-1. Anki  
-2. Grammar  
-3. Immersion  
+- Anki.
+- Grammar.
+- Immersion.
 
-Here's an interesting challenge for you today.  
-
-Let today be a reading practice day.  
-
-Look up **25** words in your Japanese subtitled anime reading practice.  
+Here's an interesting challenge for you today: let's do reading practice. Look up **25** words in your Japanese subtitled anime reading practice.  
 
 ## Day 14
 
