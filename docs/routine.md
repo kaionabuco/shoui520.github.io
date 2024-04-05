@@ -21,11 +21,17 @@ What I expect from you:
 ### Stage: Starting kana stage  
 The absolute first thing you need to do when you learn Japanese is to learn the *kana*. *Kana* is short for *hiragana* and *katakana*.  
 
-Why and how they are used can get confusing for newcomers to Japanese. So, I recommend reading [this](https://gohoneko.neocities.org/grammar/taekim.html#6%20The%20Scripts) up until the Katakana section, just before the Kanji section. It's a quite hefty amount of text, so it could take some time. However, you won't be memorizing the *kana* with it. I'll explain how you will do that below.
+Why and how they are used can get confusing for newcomers to Japanese. So, I recommend reading [this](https://gohoneko.neocities.org/grammar/taekim.html#6%20The%20Scripts) up until the *katakana* section, just before the *kanji* section. It's a quite hefty amount of text, so it could take some time. However, you won't be memorizing the *kana* with it. I'll explain how you will do that below.
 
 When you are done reading that, copy out [the chart from the main guide](/img/hiragana_katakana_LARGE.png). It's important you learn how to write *kana*, as this can also make it easier to differentiate them too. Don't worry if your handwriting is not pretty. You can do it on a paper or a screen, it doesn't matter really.
 
-INSERT IMAGE OF THE KANA CHART
+<figure>
+  <img src="/img/hiragana_katakana_LARGE.png" / alt="HIRAGANA AND KATAKANA">
+  <figcaption>
+      Full chart of singular kana<br><a href="/img/hiragana_katakana_LARGE.png" target="_blank">View in browser</a><br>
+<a href="/img/hiragana_katakana_LARGE.png" download>Download image</a>
+  </figcaption>
+</figure>
 
 Then, watch the following video by JapanesePod.
 
@@ -35,7 +41,7 @@ This is probably be the only JapanesePod video you should watch though, just say
 
 Now, click [here](https://gohoneko.neocities.org/learn/kana.html) to go to a *kana* website.  
 
-INSERT SCREENSHOT OF THE WEBSITE
+![learning_kana](img/learning_kana.gif){:  style="display: block; margin: 0 auto; max-width:40%; height:auto;" }  
 
 Click "show/hide options". Click "check all" for the categories (Hiragana, Hiragana combinations, Katakana, Katakana combinations). Don't worry about the fonts.  
 
