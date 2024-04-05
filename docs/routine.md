@@ -106,6 +106,7 @@ A: You can consider your immersion done for the day, but if you want to do more 
 [Roll a 4-sided die](https://www.google.com/search?q=roll+a+4+sided+dice)!
 
 I don't want to overwhelm you on your second day, so you'll start learning grammar tomorrow.  
+
 ## Day 3
 
 ### Stage: Just starting grammar
@@ -246,7 +247,7 @@ A: No, you shouldn't. Anki is made for things you're likely to forget, such as w
 
 **Q: Leeches (Words not sticking)**  
 
-Leeches are cards you can't recall no matter what. Memory works by picking up on cues. When words don't stick, it means there are multiple things in the wider scope of the word that hinder you from picking up on any cues. In sum, you need more, or different information from what's on the card. To ameliorate the issue, I recommend looking at these leeches in example sentences. You can use [Jisho.org with the #sentence tag](https://jisho.org/search/%20%23sentences%20%E8%B8%8F%E3%82%80) to see example sentences with English translations.  
+A: Leeches are cards you can't recall no matter what. Memory works by picking up on cues. When words don't stick, it means there are multiple things in the wider scope of the word that hinder you from picking up on any cues. In sum, you need more, or different information from what's on the card. To ameliorate the issue, I recommend looking at these leeches in example sentences. You can use [Jisho.org with the #sentence tag](https://jisho.org/search/%20%23sentences%20%E8%B8%8F%E3%82%80) to see example sentences with English translations.  
 
 **Setting up a Japanese Keyboard**  
 
@@ -333,7 +334,7 @@ The subtitles should load and work.
 
 English subtitles display at the same time, which is bad for learning because English subs can confuse you when you try to understand the actual Japanese structure behind the meaning. For just giving context to the audio, they are fine though. Anyway, to disable English subtitles, click the CC icon on the video player controls and click Off.  
 
-By using ++shift++ on a word, Yomichan should pop up with a dictionary definition. 
+By using ++shift++ on a word, Yomitan should pop up with a dictionary definition. 
 
 But there is a problem. The subtitle file for Love Live is horribly **out of sync**!  
 
@@ -436,7 +437,7 @@ You get better at it over time.
 
 Language learning is just pattern recognition after all.  
 
-Yomichan is a great help because it knows where words start and end with 90% accuracy.  
+Yomitan is a great help because it knows where words start and end with 90% accuracy.  
 
 **Q: Now that I can see the Japanese, can I try to translate it in my head?**  
 
@@ -542,7 +543,7 @@ This deck WILL, however, help you see *kanji* as compositions of consistent shap
 
 **Q: Immersion...?**
 
-Yes, you can read/watch with Japanese subs/raw listen/subtitle tutor. You can decide everything with a die and/or flipping a coin if you're uncertain, of course. 
+A: Yes, you can read/watch with Japanese subs/raw listen/subtitle tutor. You can decide everything with a die and/or flipping a coin if you're uncertain, of course. 
 
 I apologize if "immersion" is a vague term. All of that stuff that you did with the anime and the subtitles and Yomitan is what we call immersion. You can read more about it on my [Japanese Guide](/guide) if you want to.
 
@@ -608,57 +609,27 @@ Daily routine:
 - Grammar.
 - Immersion.
 
-Here's an interesting challenge for you today: let's do reading practice. Look up **25** words in your Japanese subtitled anime reading practice.  
+Here's an interesting challenge for you: let's do reading practice today. Look up **25** words in your Japanese subtitled anime reading practice.  
 
 ## Day 14
 
-Congratulations on making it this far!  
+Congratulations on making it this far! I know it's been tough (especially Anki and reading!), but the beginner stage is always the hardest part of learning any language, and things will only get easier the longer you do it. With more time spent doing the right methods, you'll certainly improve.  
 
-I know it has been tough (especially Anki and reading!), but the beginner stage is always the hardest part of learning any language, and things will only get easier the longer you do it.  
+You may have your doubts on what this method is actually doing, so allow me to explain:  
 
-With more time spent doing the right methods, you'll certainly improve.  
+Your **Anki**, **grammar study** and **looking up words** is where you are increasing your *knowledge* of the language. Your **listening** and **reading** practice are where you are **applying** your *knowledge*, by getting exposure to how these parts of the language are used by natives. The **subtitle tutor method** aims to boost the **comprehensibility** of your **listening immersion** by giving you context of what is being said in the audio. Your **Japanese subtitle listening** helps you: associate kana with sounds, figure out what words are being said and ease you into reading. Your **raw (no subtitles) listening practice** is where you build a mental model of how the language actually sounds. This is good for a number of reasons. The main reasons being getting a good accent, and being able to hear the words that you know. Listening isn't as clear as reading, it can be very fast and hard to keep up with. By getting used to raw listening, you can train yourself to hear these unclear things better.
 
-You may have your doubts on what this method is actually doing, so allow me to explain.  
-
-Your **Anki**, **grammar study** and **looking up words** is where you are increasing your *knowledge* of the language.  
-
-Your **listening** and **reading** practice are where you are **applying** your *knowledge*, by getting exposure to how these parts of the language are used by natives.  
-
-The **subtitle tutor method** aims to boost the **comprehensibility** of your **listening immersion** by giving you context of what is being said in the audio.  
-
-Your **Japanese subtitle listening** helps you: associate kana with sounds, figure out what words are being said and ease you into reading.  
-
-Your **raw (no subs) listening practice** is where you build a mental model of how the language actually sounds. This is good for a number of reasons. The main reasons being getting a good accent, and also being able to hear the words that you know. Listening isn't as clear as reading, it can be very fast and hard to keep up with. By getting used to raw listening you can train yourself to hear these unclear things better.  
-
-When you get advanced at Japanese and understand your raw listening immersion, mass raw listening is the only way to get fluent.  
-
-Your **passive listening** fills in the gaps where you otherwise wouldn't be doing Japanese.  
+When you get advanced at Japanese and can comprehend raw listening immersion, mass raw listening is the only way to get fluent. Your **passive listening** fills in the gaps where you otherwise wouldn't be doing Japanese.
 
 ### Stage: 100-page Yotsubato! challenge  
 
-From today until the 30th day. I want you to challenge yourself to read 100 pages of the よつばと！ manga.  
+From today until the 30th day, I want you to challenge yourself to read 100 pages of the 「よつばと！」 manga. よつばと！ is a great slice of life that features *furigana* (*kana *on the top of *kanji*).  
 
-よつばと！ is a great slice of life manga that features furigana (kana on the top of kanji).  
+Manga are tricky to look up words on, since they are essentially text on images. However, there are many tools out there to make this process easier. There's a particularly crazy one known as *mokuro,* that turns the manga into an HTML page. The text bubbles turn into text you can actually use Yomitan on, just like a normal web page!  
 
-Manga are tricky to look up words on because they are essentially, text on images.  
+よつばと！ has some non-standard ways of writing words that make it tricky to use a dictionary with. Such as 「そう」 being written as 「そー」. This 「ー」 is not the *kanji* 「一」 (いち, "one"), it is actually a vowel elongation mark called 「長音」 (ちょうおん). The *kanji* of this word mean "long, sound"! 「とー」 would be 「とう」. 「びー」 would be 「びい」 etc.    
 
-But there are many tools out there that make this process easier.  
-
-There is a particularly crazy one known as *mokuro* that turns the manga into a HTML page.  
-
-The text bubbles turn into text you can actually use Yomichan on, just like a normal web page!  
-
-よつばと！ has some non-standard ways of writing words that make it tricky to use a dictionary with. Such as そう being written as そー
-
-This "ー" is not the kanji 一 (one). It is actually a vowel elongation mark.  
-
-It is known as "長音" (ちょうおん). The kanji of this mean long, sound!.    
-
-とー would be とう. びー would be びい. etc.    
-
-I have made a Yotsubato reading helper to help you with words like these.  
-
-**Everything you need is in this .zip file: [(Download)](https://mega.nz/file/JRxmAZyA#qfHSC-gjBxkumlELYrP6oIz3-p_dZka0Dgg4q1eTbEo)**   
+I have made a よつばと！ reading helper, to help with words like these. **Everything you need is in this .zip file: [(Download)](https://mega.nz/file/JRxmAZyA#qfHSC-gjBxkumlELYrP6oIz3-p_dZka0Dgg4q1eTbEo).**   
 
 *Note: A typo I made in the reading helper: おいてくぞ is actually おいていくぞ, not おいておくぞ*
 
@@ -666,23 +637,15 @@ Japanese manga is in vertical text. This means the text is read **downwards** fr
 
 **Q: So, what will I need to be doing from today until the 30th day?**  
 
-As always you will need to do your Anki and grammar study.  
+A: As always, you will need to do your Anki and grammar study. As for your immersion, it will get more... complicated. You will need to balance reading that manga and your usual immersion. Shoving everything into the same day might be too difficult. I suggest replacing your reading practice with Yotsuba&! instead of Japanese subtitles. It doesn't have to be every day if you don't want to.  
 
-Your immersion will get more... complicated.  
+**Word looking up trick: The Yomitan Search Page**  
 
-You will need to balance reading that manga and your usual immersion.  
+You can use Yomitan to search up words by typing it or copy and pasting it.  
 
-Shoving everything into the same day may be too difficult.  
+You will need to use the Yomitan search page to look up words from my Yotsubato Reading Helper.  
 
-I suggest replacing your reading practice with Yotsubato! instead of Japanese subtitles. It doesn't have to be every day if you don't want to.  
-
-**Word looking up trick: The Yomichan Search Page**  
-
-You can use Yomichan to search up words by typing it or copy and pasting it.  
-
-You will need to use the Yomichan search page to look up words from my Yotsubato Reading Helper.  
-
-You can access the search page by clicking on the Yomichan icon in your browser extensions toolbar, and then clicking the magnifying glass icon. Or by pressing ++alt++++insert++  
+You can access the search page by clicking on the Yomitan icon in your browser extensions toolbar, and then clicking the magnifying glass icon. Or by pressing ++alt++++insert++  
 
 **Q: How long will it actually take to read 100 pages?**
 
@@ -710,7 +673,6 @@ And when you read, look up, and understand i+1 sentences, your Japanese comprehe
 
 And with enough reading, you'll be able to go back to those difficult sentences and understand them at least a little better.  
 In other words, you'll only learn to understand sentences with more reading!!!   
-
 
 ### Important! Learning how to read for long hours and making it enjoyable.  
 #### Timeboxing
@@ -743,7 +705,6 @@ You can always go back to that one annoying part after you've read the good bits
 
 If you want to, of course.  
 
-
 #### Take breaks!  
 
 Take breaks if you feel tired/fatigued!  
@@ -752,54 +713,35 @@ Take breaks if you feel tired/fatigued!
 
 Until the 30th day, all I want you to do is:
 
-- Anki
-- your grammar study
-- "Immersion" = (reading that manga, raw listening anime, subtitle tutor, passive listening, Japanese subtitles)
+- Anki.
+- Grammar study.
+- "Immersion" (reading that manga, raw listening anime, subtitle tutor, passive listening, Japanese subtitles).
 
-The method is pretty much that.  
+This method is pretty much that. You will be doing the same thing for the next few weeks. Keep up with it. You're doing great!  
 
-You will be doing the same thing for the next few weeks.  
+**Q: During this period, can I read and watch other things that you haven't talked about?**  
 
-Keep up with it.  
-
-You're doing great!  
-
-**Q: During this period can I read and watch other things that you haven't talked about?**  
-
-Of course!  
-
-Read what interests you!  
-
-Watch what interests you!  
-
-This study guide (UsagiSpoon) was just making a few of the decisions for you.  
+A: Of course! Read what interests you! Watch what interests you! This study guide (UsagiSpoon) is just streamlining a few decisions for you.  
 
 **Q: What is the ideal UsagiSpoon lifesyle?**  
 
-A: [https://www.youtube.com/watch?v=r5Qxr8OGkaA](https://www.youtube.com/watch?v=r5Qxr8OGkaA)  
+A: 
 
+EMBED https://www.youtube.com/watch?v=r5Qxr8OGkaA
 
 ## Day 31 and beyond: After UsagiSpoon?  
 
-At this point, you will have enough of a foundation to proceed with learning on your own.  
+At this point, you have enough of a foundation to proceed learning on your own. There are a few "Japanese learning tasks" I'd like to set you. There's no time limit for these tasks, some of you might not even be able to do them months or years down the line! Nevertheless, I highly recommend you try them.  
 
-There are a few "Japanese learning tasks" I'd like to set you.  
-
-There is no time limit for these tasks.  
-
-Some you might not even be able to do until months or years down the line!  
-
-Nevertheless, I highly recommend you do them.  
-
-- Finish the entirety of Yotsubato volume 1
-- Finish the Kaishi 1.5k deck   
-- Finish the RRTK450 deck  
+- Finish the entirety of Yotsuba&! Volume 1.
+- Finish the Kaishi 1.5k deck.   
+- Finish the RRTK450 deck.  
 - Do the [Kanji Phonetics](/kanjiphonetics) deck.  
-- Finish Cure Dolly's grammar guide  
-- Study all the Japanese grammar from the Dictionary of Japanese Grammar. There is an Anki deck for that [here](https://ankiweb.net/shared/info/1013111837). There are 629 grammar points ranging from beginner to advanced.     
-- Start studying Japanese pronunciation and pitch accent with [this guide](https://docs.google.com/document/d/1ReBf08JFK4n0PXdOxThAfWuiK9UWVZEWWzeKSECWTQo)
-- Start reading longer texts such as visual novels. Participate in TheMoeWay Discord's VN club to hang out with other people doing the same.  
-- Train your ability to recognize and read Japanese numbers, with this resource: [Practice Japanese Numbers](https://langpractice.com/japanese/).   
+- Finish Cure Dolly's grammar guide.  
+- Study all the Japanese grammar from the Dictionary of Japanese Grammar. There's an Anki deck for that [here](https://ankiweb.net/shared/info/1013111837). It contains 629 grammar points, ranging from beginner to advanced.     
+- Start studying Japanese pronunciation and pitch accent with [this guide](https://docs.google.com/document/d/1ReBf08JFK4n0PXdOxThAfWuiK9UWVZEWWzeKSECWTQo).
+- Start reading longer texts such as visual novels. Join TheMoeWay Discord's VN club to hang out with other people doing the same.  
+- Train your ability to recognize and read Japanese numbers with this resource: [Practice Japanese Numbers](https://langpractice.com/japanese/).   
 - Start a "mining" Anki deck sometime after you finish the Kaishi 1.5k deck.  
 - Finish a visual novel in under 6 months after starting it.   
 - Try using a monolingual dictionary after you finish a visual novel.  
