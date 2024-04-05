@@ -1,3 +1,35 @@
+<style>
+  .title {
+    font-size: 24px;
+    text-align: center;
+  }
+  
+  .italic {
+    font-style: italic;
+  }
+  
+  .bold {
+    font-weight: bold;
+  }
+  
+  .click-zoom input[type=checkbox] {
+    display: none
+  }
+
+  .click-zoom img {
+    margin: 100px;
+    transition: transform 0.25s ease;
+	cursor: zoom-in
+  }
+
+  .click-zoom input[type=checkbox]:checked~img {
+    position: relative;
+    transform: scale(2);
+    cursor: zoom-out
+  }
+}
+</style>
+
 # 30 Day Japanese (UsagiSpoon)  
 
 This is a guide/routine to help people learn Japanese from scratch with the immersion method. This guide was made to be followed in order, most of the decisions have already been made for you. The routine is split into days, and each day has tasks that you need to do.
@@ -26,30 +58,40 @@ Why and how they are used can get confusing for newcomers to Japanese. So, I rec
 When you are done reading that, copy out [the chart from the main guide](/img/hiragana_katakana_LARGE.png). It's important you learn how to write *kana*, as this can also make it easier to differentiate them too. Don't worry if your handwriting is not pretty. You can do it on a paper or a screen, it doesn't matter really.
 
 <figure>
-  <img src="/img/hiragana_katakana_LARGE.png" / alt="HIRAGANA AND KATAKANA">
+  <div class="click-zoom">
+    <label>
+      <input type="checkbox">
+	    <img src="/img/hiragana_katakana_LARGE.png" / alt="HIRAGANA AND KATAKANA">
+    </label>
+  </div>
   <figcaption>
       Full chart of singular kana<br><a href="/img/hiragana_katakana_LARGE.png" target="_blank">View in browser</a><br>
-<a href="/img/hiragana_katakana_LARGE.png" download>Download image</a>
+	<a href="/img/hiragana_katakana_LARGE.png" download>Download image</a>
   </figcaption>
 </figure>
 
 Then, watch the following video by JapanesePod.
 
-EMBED https://www.youtube.com/watch?v=_wZHqOghvSs
+<iframe 
+	src="https://www.youtube.com/embed/_wZHqOghvSs" width=600px height=400px style="display: block; margin: 0 auto"> 
+</iframe>
 
 This is probably be the only JapanesePod video you should watch though, just sayin'.
 
 Now, click [here](https://gohoneko.neocities.org/learn/kana.html) to go to a *kana* website.  
 
-![learning_kana](img/learning_kana.gif){:  style="display: block; margin: 0 auto; max-width:40%; height:auto;" }  
-
 Click "show/hide options". Click "check all" for the categories (Hiragana, Hiragana combinations, Katakana, Katakana combinations). Don't worry about the fonts.  
+
+<div class="click-zoom">
+  <label>
+    <input type="checkbox">
+	<img src="/img/learning_kana.gif" / style="display: block; margin: 0 auto; width: 100%; height: auto;" alt="LEARNING KANA">
+  </label>
+</div>
 
 Type in the correct *romaji* in the text box (*romaji* are the latin characters we use for English and other languages). This is how you'll practice your *kana*.  
 
 Do this for 10 minutes. You can use this timer [here](https://www.online-stopwatch.com/timer/10minutes/).
-
-SCREENSHOT OF THE TIMER
 
 ## Day 2  
 
@@ -123,31 +165,71 @@ Now here's where you'll start grammar. You don't need to do any drills, exercise
 
 The grammar guide I recommend is [Cure Dolly's Organic Japanese](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj).
 
-EMBED FIRST VIDEO FROM PLAYLIST https://www.youtube.com/watch?v=pSvH9vH60Ig
+<!--
+  EMBED FIRST VIDEO FROM PLAYLIST https://www.youtube.com/watch?v=pSvH9vH60Ig
+  This is probably not necessary.
+-->
 
 If you prefer reading, here's the [Cure Dolly fan-made textbook](https://docs.google.com/document/d/1OwVPStFrXRjXvzmrFQUfXpEiPNspYq6JYxA4zDTlhPM/edit)!
 
-All I want you to do is **watch the videos** and **take notes** (Google Keep, a tool for taking notes, can be found [here](https://keep.google.com/)).
+All I want you to do is **watch the videos**, paying attention to the general ideas.
 
-**Note: I recommend turning on subtitles for Cure Dolly's videos.**    
+You don't need to remember everything, and you don't need to take notes.
 
-***Watch 3 videos a day!*** That's a good number, you'll be near the end of her guide after 30 days at this pace. And again, ***take notes!***
+**Note: I recommend turning on subtitles for Cure Dolly's videos.**
 
-**Q: What should I even put in my notes?**
+***Watch 3 videos a day!*** That's a good number, you'll be near the end of her guide after 30 days at this pace.
 
-A: You should put any information that you feel is important. Trust your intuition. If Cure Dolly says *this* means *that*, then you might want to take a note of it. Your notes do not need to be detailed, and you don't need to show them to anyone. They are YOUR notes, so make them yours.  
+**Q: Why don't I need to take notes?**
 
-**Q: Why should I even do notes?! I can probably remember everything anyway!**
+A: As a beginner, it's very hard to gauge what's both accurate and important information. Our current goal at this stage is to get an idea of what grammar exists in Japanese. Since you don't yet have the experience in Japanese yet, you probably can't digest most of the information even with notes.
 
-A: I want you to take notes so you can go over them whenever you need to. (Keyword: when you **need** to!) You're making your own mini version of the videos in your notes, so if you *do* forget something, it's faster to review what you've written.  
+**Q: So how do I learn grammar?**
 
-**Q: I really don't want to take notes...**  
+A: The answer is really simple! When you don't understand something in your bottom-up immersion, you simply come back to the the videos, transcript or any other grammar guide and look it up. It can be overwhelming at first, but eventually things become much easier!
+
+<div style="border: 4px dotted #333; padding: 10px; margin: 10px 0px; border-radius: 10px; text-align: justify">
+
+  <p class="title bold">Bottom-up? Top-down? Immersion terminology explained!<p><hr>
+	
+  In simple terms, when immersion learners use this terminology, it refers to the 'type' of immersion being performed.<br><br>
+	
+  <b>Bottom-up:</b> Starting with the <i>foundations</i> (i.e. grammar, individual words), and building <b>upwards</b> towards the <i>bigger picture</i>. This is what you do when reading.<br><br>
+	
+  <b>Top-down:</b> Starting with the <i>bigger picture</i> (i.e. general ideas being conveyed), and building <b>downwards</b> towards the more finicky details. This is what you do when listening.<br><br>
+	
+  Both of these are integral to immersion, and soon we'll be doing both of them!
+	
+</div>
+
+**Q: What if I want to take notes?**
+
+A: And that's fine as well! Note-taking is an area where I do think personal preference is involved.  
+
+<!-- I am going to put everything here in a comment, just in case something needs to be reverted.
+
+	All I want you to do is **watch the videos** and **take notes** (Google Keep, a tool for taking notes, can be found [here](https://keep.google.com/)).
+
+	**Note: I recommend turning on subtitles for Cure Dolly's videos.**    
+
+	***Watch 3 videos a day!*** That's a good number, you'll be near the end of her guide after 30 days at this pace. And again, ***take notes!***
+
+	**Q: What should I even put in my notes?**
+
+	A: You should put any information that you feel is important. Trust your intuition. If Cure Dolly says *this* means *that*, then you might want to take a note of it. Your notes do not need to be detailed, and you don't need to show them to anyone. They are YOUR notes, so make them yours.  
+
+	**Q: Why should I even do notes?! I can probably remember everything anyway!**
+
+	A: I want you to take notes so you can go over them whenever you need to. (Keyword: when you **need** to!) You're making your own mini version of the videos in your notes, so if you *do* forget something, it's faster to review what you've written.  
+
+	**Q: I really don't want to take notes...**  
 
 A: And that's fine! Note-taking is an area where I do think personal preference is involved.  
+-->
 
 ### Stage: Just done your first grammar lessons
 
-After you watched your first 3 Cure Dolly videos, you can consider that your **"grammar session done for the day".** Now I want you to immerse.  
+After you've watched your first 3 Cure Dolly videos, you can consider that your **"grammar session done for the day".** Now I want you to immerse.  
 
 You know the drill. [Roll a 4-sided die](https://www.google.com/search?q=roll+a+4+sided+dice)! 
 
@@ -182,7 +264,9 @@ After that, do your daily grammar study: **3 Cure Dolly videos**!
 
 Next, we'll set up Anki. Watch the following video:
 
-EMBED https://www.youtube.com/watch?v=UDUITtA1jJI
+<iframe 
+	src="https://www.youtube.com/embed/UDUITtA1jJI" width=600px height=400px style="display: block; margin: 0 auto"> 
+</iframe>
 
 Now let's download Anki. You can download Anki in the official website [here](https://apps.ankiweb.net/), just click on the Download button. It should scroll the page down to the downloads section. Click on the first option.
 
@@ -190,9 +274,14 @@ Download the required deck [here](https://github.com/donkuri/Kaishi/releases) (g
 
 When you first open Anki, the first thing you'll see is the "interface language selector". This just decides what language Anki will be displayed in. Any language is fine.  
 
-Go into **Tools** on the top bar, and click **Preferences (Ctrl+P)**. In this window, click on the **Scheduling** tab, and check (✓) the option "*V3 Scheduler*". And change the **Learn ahead limit** to `900`. Then click on Close.
+Go into **Tools** on the top bar, and click **Preferences (Ctrl+P)**. In this window, click on the **Review** tab and change the **Learn ahead limit** to `900`. Then click on Close.
 
-SCREENSHOT OF CORRECT SETTINGS
+<div class="click-zoom">
+  <label>
+    <input type="checkbox">
+	<img src="/img/AnkiSettingsPreferenceWindow.png" / style="display: block; margin: 0 auto; width: 60%; height: auto; alt="Anki Settings Preferences">
+  </label>
+</div>
 
 In Anki, there are 3 buttons on the bottom of the window. The button **Import File** is how you'll be importing your downloaded deck. Once clicked, it should open the file picker window. Choose your downloaded deck.  
 
