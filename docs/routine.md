@@ -123,9 +123,9 @@ Surrounding your daily life with Japanese is the most important part of the imme
 
 See [Anime Resources](https://learnjapanese.moe/resources/#anime) for places to find anime. Downloading the anime is preferred because it makes it easier to carry your library portably.  
 
-**Q: But everything here is so boooooring!!!! I'd rather watch something actually good!**
+**Question: But everything here is so boooooring!!!! I'd rather watch something actually good!**
 
-A: And I like your way of thinking! Immersion is all about spending time with content that interests you. So please, don't limit yourself to my suggestions.  
+Answer: I like your way of thinking! Immersion is all about spending time with content that interests you. So please, don't limit yourself to my suggestions.  
 
 **Your task:**  
 
@@ -163,24 +163,20 @@ Do your [daily *kana* practice](https://gohoneko.neocities.org/learn/kana.html) 
 
 Now here's where you'll start grammar. You don't need to do any drills, exercises, or anything like that. Everything you will be learning is insanely common and will be reinforced by your daily immersion.  
 
-The grammar guide I recommend is [Cure Dolly's Organic Japanese](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj).
+The grammar guide I recommend is [Cure Dolly's Organic Japanese](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj). If you prefer reading, here's the [Cure Dolly fan-made textbook](https://docs.google.com/document/d/1OwVPStFrXRjXvzmrFQUfXpEiPNspYq6JYxA4zDTlhPM/edit)!
 
 <!--
   EMBED FIRST VIDEO FROM PLAYLIST https://www.youtube.com/watch?v=pSvH9vH60Ig
   This is probably not necessary.
 -->
 
-If you prefer reading, here's the [Cure Dolly fan-made textbook](https://docs.google.com/document/d/1OwVPStFrXRjXvzmrFQUfXpEiPNspYq6JYxA4zDTlhPM/edit)!
-
-All I want you to do is **watch the videos**, paying attention to the general ideas.
-
-You don't need to remember everything, and you don't need to take notes.
+All I want you to do is **watch the videos**, paying attention to the general ideas. You don't need to remember everything, and you don't need to take notes.
 
 **Note: I recommend turning on subtitles for Cure Dolly's videos.**
 
 ***Watch 3 videos a day!*** That's a good number, you'll be near the end of her guide after 30 days at this pace.
 
-**Q: Why don't I need to take notes?**
+**Q: Can I really skip taking notes?**
 
 A: As a beginner, it's very hard to gauge what's both accurate and important information. Our current goal at this stage is to get an idea of what grammar exists in Japanese. Since you don't yet have the experience in Japanese yet, you probably can't digest most of the information even with notes.
 
@@ -194,9 +190,9 @@ A: The answer is really simple! When you don't understand something in your bott
 	
   In simple terms, when immersion learners use this terminology, it refers to the 'type' of immersion being performed.<br><br>
 	
-  <b>Bottom-up:</b> Starting with the <i>foundations</i> (i.e. grammar, individual words), and building <b>upwards</b> towards the <i>bigger picture</i>. This is what you do when reading.<br><br>
+  <b>Bottom-up:</b> Starting with the <i>foundations</i> (i.e. grammar, individual words), and building <b>upwards</b> towards the <i>bigger picture</i>. This is what you do while reading.<br><br>
 	
-  <b>Top-down:</b> Starting with the <i>bigger picture</i> (i.e. general ideas being conveyed), and building <b>downwards</b> towards the more finicky details. This is what you do when listening.<br><br>
+  <b>Top-down:</b> Starting with the <i>bigger picture</i> (i.e. general ideas being conveyed), and building <b>downwards</b> towards the more finicky details. This is what you do while listening.<br><br>
 	
   Both of these are integral to immersion, and soon we'll be doing both of them!
 	
@@ -204,7 +200,7 @@ A: The answer is really simple! When you don't understand something in your bott
 
 **Q: What if I want to take notes?**
 
-A: And that's fine as well! Note-taking is an area where I do think personal preference is involved.  
+A: That's fine as well! Note-taking is an area where I do think personal preference is involved.  
 
 <!-- I am going to put everything here in a comment, just in case something needs to be reverted.
 
@@ -384,7 +380,7 @@ A: The sounds, the speaking patterns, the "words" that pop up a lot, the words t
 
 ### Stage: First ever reading practice: Japanese subtitles! 
 
-Today, you'll start reading practice for the first time! It's going to be quite tough, but don't worry if you can't understand it! Every bit counts!  
+Today, you'll start reading practice for the first time! It's going to be quite tough, but don't worry if you can't understand most of it! Every bit counts!  
 
 First, practice *kana* for 10 minutes.
 
@@ -395,186 +391,93 @@ After that, do your daily Anki. When you're done, watch your 3 Cure Dolly videos
 
 Then let's get on to reading. Your first reading content will be anime with Japanese subtitles. It's kind of tricky to set it up, but let's go through it.  
 
-First, you will need Yomitan (formerly Yomichan). Click on this [link](/yomichan) to read my guide on it.  
+First, you will need Yomitan (formerly Yomichan). Click on this [link](/yomichan) to read my guide on it. After you have set it up, follow the rest of these steps. 
 
-After you have set it up, follow the rest of these steps. 
+In your Chrome extension settings (`chrome://extensions`), enable "**Developer mode**" in the **top right**. Now download the [asbplayer Extension](https://github.com/killergerbah/asbplayer/releases). It has to be installed manually, as it is not on the Chrome Web Store.  
 
-In your Chrome extension settings (`chrome://extensions`), enable "**Developer mode**" in the **top right**.  
+Extract the .zip file first. Then you go to your Chrome extension settings and click "Load unzipped". Choose the unzipped folder. Restart your browser. Now you need to get subtitle files for the anime you want to watch! Let's just use... Love Live (2013) as an example.  
 
-Now download the [asbplayer Extension](https://github.com/killergerbah/asbplayer/releases)  
-
-It has to be installed manually, as it is not on the Chrome Web Store.  
-
-You need to unzip the .zip file first.  
-
-Now you go in your Chrome extension settings and click "Load unzipped". Choose the unzipped folder. Restart your browser.  
-
-Now you need to get subtitle files for the anime you want to watch. Let's just use... Love Live (2013) as an example.  
-
-The website [Kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) has the largest library of Japanese subtitles for anime.   
+The [Kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) website has the largest library of Japanese subtitles for anime.   
 
 **(NOTE: Kitsunekko may be down sometimes. You can view a backup [here](/kitsubackup.html#/ja))**    
 
-I scrolled down to "Love Live!", and downloaded the "Love Live! (01-13) (Webrip).zip" file. After unzipping it, I got a bunch of .SRT files. These are subtitle files.
+I scrolled down to "Love Live!", and downloaded the "Love Live! (01-13) (Webrip).zip" file. After unzipping it, I got a bunch of .SRT files, which are subtitle files. Drag and drop an .SRT file onto its respective video. The asbplayer extension works with [Hianime](https://hianime.to/watch/love-live-school-idol-project-1706?ep=22404). I recommend streaming from there.  
 
-Now what you need to do is drag and drop an .SRT file onto a video.  
+Before you start playing an episode, make sure you have [this page](https://killergerbah.github.io/asbplayer/) open. Whenever an episode starts playing, you can drag and drop a .SRT file onto it. The subtitles should load and work.  
 
-The asbplayer extension works with [Hianime](https://hianime.to/watch/love-live-school-idol-project-1706?ep=22404). I recommend streaming from there.  
+English subtitles display at the same time, which is bad for learning because English subs can confuse you when you try to understand the actual Japanese structure behind the meaning. For just giving context to the audio, they are fine though. Anyway, to disable English subtitles (which you should do), click the CC icon on the video player controls and click Off. When you want to pop up a dictionary definition on a word, use the ++shift++ button.
 
-Before you start playing an episode, make sure you have this page open: [https://killergerbah.github.io/asbplayer/](https://killergerbah.github.io/asbplayer/)  
+But there's a problem: the subtitle file for Love Live is horribly **out of sync**! This means the subtitles don't match the timing of the audio. Luckily, asbplayer supports time adjustment down to the microseconds. You can do that with ++ctrl++++shift++++left++ or ++right++. Sometimes it doesn't work if you don't click on the video first. You will need to experiment to find the right timing. For Love Live!, it was -8400ms. It might be hard to figure out what subtitle belongs to what audio when reading is so difficult. Sentences written in kana make it easier to tell which is which though.  
 
-When an episode starts playing, you can drag and drop an .SRT file onto it.  
+[This page](https://killergerbah.github.io/asbplayer/) displays the subtitles in a list. This makes it easier to go back to a line you missed. It only works if you had it open before loading the subtitles. **This also enables you to "read" the anime, which I recommend you do!!!**    
 
-The subtitles should load and work.  
-
-English subtitles display at the same time, which is bad for learning because English subs can confuse you when you try to understand the actual Japanese structure behind the meaning. For just giving context to the audio, they are fine though. Anyway, to disable English subtitles, click the CC icon on the video player controls and click Off.  
-
-By using ++shift++ on a word, Yomitan should pop up with a dictionary definition. 
-
-But there is a problem. The subtitle file for Love Live is horribly **out of sync**!  
-
-This means the subtitles don't match the timing of the audio.  
-
-Luckily, asbplayer supports adjusting the timing.  
-
-You can do that with ++ctrl++++shift++++left++ or ++right++. Sometimes it doesn't work if you don't click on the video first.  
-You will need to experiment to find the right timing. For Love Live it was -8400ms.  
-
-It might be hard to figure out what subtitle belongs to what audio when reading is so difficult. 
-
-Sentences written in kana make it easier to tell which is which though.  
-
-This page [https://killergerbah.github.io/asbplayer/](https://killergerbah.github.io/asbplayer/) displays the subtitles in a list. This makes it easier to go back to a line you missed. It only works if you had it open before loading the subtitle.  
-
-**This also enables you to "read" the anime! Which I recommend you do!!!**    
-
-So, what's the routine?  
-
-**Watch** the anime with Japanese subtitles first. Then focus your attention on **just reading** it.  
+So, what's the routine? **Watch** the anime with Japanese subtitles first. Then focus your attention on **just reading** it.  
 
 **Q: How many words do I look up?**  
 
-A: I think you should decide this using a 20-sided die, per episode. [Click here to roll a 20-sided die](https://www.google.com/search?q=roll+a+20+sided+dice)! After you've filled your quota, just *watch* the rest with Japanese subs, but if anything piques your interest, then do feel free to look it up!
+A: I think you should decide this using three dice, per episode. [Click here to roll the dice](https://www.google.com/search?q=roll+3d6)! After you've filled your quota, just *watch* the rest with Japanese subs, but if anything piques your interest, then do feel free to look it up!
 
-**Q: When watching with Japanese subs, do I try to read everything on the screen?**
+**Q: When watching with Japanese subs, should I try to read everything on the screen?**
 
-A: No. I generally recommend looking up the number of words the dice decided and then just watch the rest of the episode without looking anything up or stopping to read anything, but you should focus on how the kana are pronounced etc.  
+A: No. I generally recommend looking up the number of words the dice decided, then just watch the rest of the episode without looking anything up or stopping to read anything, but you should focus on how the kana are pronounced etc.  
 
 **Q: When I look up something, or need to read something, do I pause the video?**  
 
 A: Yes! Pause the video when you need to look up!  
 
-**Q: What is the point of putting subtitles in a list?**  
+**Q: What's the point of displaying subtitles in a list?**  
 
 A: You do it so you can do "raw reading practice". While the anime plays, you are doing half-reading, half-listening. When you remove the audio track and just read the subtitles in plain text, you are doing the equivalent of real reading!  
 
-**Q: Does the die decide how many words I look up while watching the anime or while reading the subtitles in a list?**  
+**Q: Do the dice decide how many words I look up while watching the anime or while reading the subtitles in a list?**  
 
-A: [Roll another 20 sided die](https://www.google.com/search?q=roll+a+20+sided+dice) for when you read the anime.  
+A: [Roll another set of dice](https://www.google.com/search?q=roll+3d6) when you read the anime transcript.  
    
 **Q: How many episodes should I read?**  
 
-A: Focus on reading a single anime episode until you've looked up the amount of dice decided words.  
+A: Focus on reading a single anime episode until you've looked up the amount of words decided by the dice.  
 
 **Q: Is it possible to understand everything by spending 30 minutes spamming Yomitan on a sentence?**  
 
 Short A: It isn't. Comprehension is a gradual process.  
 
-Long A:
+Long A: There are many things you won't understand just by using a dictionary, as there are many factors that make up your comprehension. Some are obvious, such as yet unknown vocabulary and grammar, but there are also less obvious components such as the context that a specific piece of language requires, which leads to its meaning.  
 
-There are many things you will not understand just by using a dictionary.  
-
-There are many factors that go into understanding something.  
-
-There are obvious factors such as vocabulary and grammar.
-
-But there are also less obvious ones such as the contexts that that piece of language is often used in, which in turns leads to its meaning.  
-
-In a vacuum, studying vocabulary and grammar increases your ability to understand things.  
-
-But understanding the use of the vocabulary and grammar in contexts further increases your understanding of the sentence.  
-
-This works especially well for sentences that have only one piece of language that you aren't comfortable with.  
-
-This doesn't work well for hard sentences though.  
-
-Because there is too much language information in the sentence that you are too unfamiliar with.  
-
-The best you can do for hard sentences is to look up the vocabulary in them.  
-
-While it may not be enough to understand *that* sentence at *that* time, your newly found knowledge of the word can help you connect it to some meaning in a later context.  
-
-With more study and immersion (understanding things in context), your understanding of Japanese will increase.  
-
-
+In a vacuum, studying vocabulary and grammar increases your ability to understand things. However, understanding the use of the vocabulary and grammar in contexts further increases your understanding of the sentence. This works especially well for sentences that have only one piece of language that you aren't comfortable with. It doesn't work well for difficult sentences though, as there will be too much language information in the sentence that you're struggling with. The best you can do for hard sentences is to look up the vocabulary in them: while it may not be enough to understand *that* sentence at *that* time for now, your newly acquired knowledge of the linguistic elements can help you connect them to some meaning in a later context. With more study and immersion (understanding things in context), your Japanese comprehension will improve.  
 
 **Q: Do I have to change the anime I'm reading to the one I last watched?**  
 
-No. I actually recommend reading the same one until you read the end.  
-
-But you don't have to always use the same one if it no longer interests you.  
+No, you don't. I actually recommend reading through the same anime until you finish it, unless it gets boring.  
 
 **Q: How can I expect to remember the words I look up?**  
 
-A: Great question! It all comes down to repetition. The more reading you do, the more words you will remember.  
-
-In other words, don't fuss over the words you look up right now.  
-
-Looking over them a gajillion times isn't a productive use of your time.  
-
-What you should actually do is: Look at the meaning, look at the reading. Then go like "Oh, right!". And move on.  
+A: Great question! It all comes down to repetition. The more reading you do, the more words you will remember. Don't fuss over the words you look up right now, looking over them a gajillion times isn't a productive use of your time. What you should actually do is: check the meaning, check the reading. Then go "Oh, right!", and move on.  
 
 **Q: How do I figure out where a word starts and ends? Japanese has no spaces!**  
 
-A: The simple answer is, it is hard to tell as a beginner.  
-
-You get better at it over time.  
-
-Language learning is just pattern recognition after all.  
-
-Yomitan is a great help because it knows where words start and end with 90% accuracy.  
+A: I acknowledge it's hard to tell as a beginner. You get better at it over time. Language learning is just pattern recognition after all. Yomitan is great help because it knows where words start and end with 90% accuracy.
 
 **Q: Now that I can see the Japanese, can I try to translate it in my head?**  
 
-A: It's complicated...   
+A: It's complicated... There are always forms of expression that just aren't compatible between English and Japanese. Their way of thinking is a lot different, and that's the main reason why this method, and similar ones, tend to advise against trying to translate your immersion. Japanese is not English, think of Japanese as Japanese. Live the language! You can do some sort of [free translation](https://glossary.sil.org/term/free-translation) where you just piece together the sentence's basic meaning.  
 
-There are always forms of expression that just aren't compatible between English and Japanese.  
-
-The way of thinking is a lot different.  
-
-That is the main reason why this method (and similar ones) tends to advise against trying to translate your immersion.  
-
-Because Japanese is not English.  
-
-You are advised to think of Japanese as Japanese.  
-
-Be the language!  
-
-You can do some sort of "loose translation", where you just try to piece together some sort of basic meaning.  
-
-*Do I need to translate at all?*  
-
-Not always, it is inevitable that there are things you will just not understand due to many factors. (Missing knowledge of: word meaning, word meaning that's hard to understand just from the dictionary, grammar usage, advanced grammar usage, context, how the word is generally used in the wider scope of language etc.)  
-
-It is also tiring, so do it in moderation.  
+However, it's inevitable that there are things you will just not understand due to missing knowledge of word meaning, or word meaning that's hard to understand just from the dictionary, or grammar usage, or advanced grammar usage, or context, or how the word is generally used in the wider scope of language etc. Translating is also tiring, so do it in moderation.  
 
 **Q: How many episodes should I watch with Japanese subs until I go back to no subs?**  
 
-A: 1 Japanese subtitled episode per day is a good number. 2 or 3 if you want to go all out.  
+A: One Japanese subtitled episode per day is a good number. 2 or 3 if you want to go all out.  
 
 **Q: Should I watch Japanese subs or raw?**  
 
-A: They exist for different purposes.  
-
-I can't say which one is better because they have their own benefits and drawbacks.  
+A: They exist for different purposes. I can't say which one is better because they have their own benefits and drawbacks.  
 
 Japanese subs: 
-Pros: teaches new words, practises reading  
-Cons: doesn't train raw listening ability, you might not pick up on things said in the audio  
+Pros: teaches new words, practises reading. 
+Cons: doesn't train raw listening ability, you might not pick up on things said in the audio.
 
-Raw:  
-Good: trains raw listening ability and can attribute to speaking ability too. You will notice more than just watching with Japanese subtitles.  
-Bad: the words you dont know you just don't know.  
+Raw audio:  
+Pro: trains raw listening ability and can improve speaking ability too. You'll notice it more than just watching with Japanese subtitles.  
+Con: the words you dont know, you just don't know.  
 
 **Q: What about the subtitle tutor method?**  
 
