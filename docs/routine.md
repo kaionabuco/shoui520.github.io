@@ -615,7 +615,7 @@ Congratulations on making it this far! I know it's been tough (especially Anki a
 
 You may have your doubts on what this method is actually doing, so allow me to explain:  
 
-Your **Anki**, **grammar study** and **looking up words** is where you are increasing your *knowledge* of the language. Your **listening** and **reading** practice are where you are **applying** your *knowledge*, by getting exposure to how these parts of the language are used by natives. The **subtitle tutor method** aims to boost the **comprehensibility** of your **listening immersion** by giving you context of what is being said in the audio. Your **Japanese subtitle listening** helps you: associate kana with sounds, figure out what words are being said and ease you into reading. Your **raw (no subtitles) listening practice** is where you build a mental model of how the language actually sounds. This is good for a number of reasons. The main reasons being getting a good accent, and being able to hear the words that you know. Listening isn't as clear as reading, it can be very fast and hard to keep up with. By getting used to raw listening, you can train yourself to hear these unclear things better.
+Your **Anki**, **grammar study** and **looking up words** is where you are increasing your *knowledge* of the language. Your **listening** and **reading** practice are where you are **applying** your *knowledge*, by getting exposure to how these parts of the language are used by natives. The **subtitle tutor method** aims to boost the **comprehensibility** of your **listening immersion** by giving you context of what is being said in the audio. Your **Japanese subtitle listening** helps you: associate *kana* with sounds, figure out what words are being said and ease you into reading. Your **raw (no subtitles) listening practice** is where you build a mental model of how the language actually sounds, building a good accent and solidifying the words you already know. Listening isn't as clear as reading, it can be very fast and hard to keep up with. By getting used to raw listening, you can train yourself to hear these unclear things better.
 
 When you get advanced at Japanese and can comprehend raw listening immersion, mass raw listening is the only way to get fluent. Your **passive listening** fills in the gaps where you otherwise wouldn't be doing Japanese.
 
@@ -627,7 +627,7 @@ Manga are tricky to look up words on, since they are essentially text on images.
 
 よつばと！ has some non-standard ways of writing words that make it tricky to use a dictionary with. Such as 「そう」 being written as 「そー」. This 「ー」 is not the *kanji* 「一」 (いち, "one"), it is actually a vowel elongation mark called 「長音」 (ちょうおん). The *kanji* of this word mean "long, sound"! 「とー」 would be 「とう」. 「びー」 would be 「びい」 etc.    
 
-I have made a よつばと！ reading helper, to help with words like these. **Everything you need is in this .zip file: [(Download)](https://mega.nz/file/JRxmAZyA#qfHSC-gjBxkumlELYrP6oIz3-p_dZka0Dgg4q1eTbEo).**   
+I have made a よつばと！ reading helper, to help with words like these. **Everything you need is in this .zip file: [(Download)](https://mega.nz/file/JRxmAZyA#qfHSC-gjBxkumlELYrP6oIz3-p_dZka0Dgg4q1eTbEo)**   
 
 *Note: A typo I made in the reading helper: おいてくぞ is actually おいていくぞ, not おいておくぞ*
 
@@ -639,21 +639,13 @@ A: As always, you will need to do your Anki and grammar study. As for your immer
 
 **Word looking up trick: The Yomitan Search Page**  
 
-You can use Yomitan to search up words by typing it or copy and pasting it.  
-
-You will need to use the Yomitan search page to look up words from my Yotsubato Reading Helper.  
-
-You can access the search page by clicking on the Yomitan icon in your browser extensions toolbar, and then clicking the magnifying glass icon. Or by pressing ++alt++++insert++  
+You can use the Yomitan search page to look up words from my Yotsuba&! Reading Helper by typing them or copy-pasting them. Access the search page by clicking on the Yomitan icon in your browser extensions toolbar, and then clicking on the magnifying glass icon. You can also press ++alt++++insert++  
 
 **Q: How long will it actually take to read 100 pages?**
 
 A: At a pace of 10 minutes per page, it will take 16 hours and 40 minutes.  
 
-If you read it for 1 hour every day for the rest of the 30 days, you can finish it in time.  
-
-This is assuming your pace stays at 10 minutes per page though!  
-
-Your pace can increase the more you get used to reading Yotsubato.  
+If you read it for 1 hour every day for the rest of the 30 days, you can finish it in time, assuming your pace stays at 10 minutes per page. Your pace can also increase the more you get used to reading Yotsuba&!
 
 **Q: Am I looking up every word in the manga or am I using a dice to decide?**  
 
@@ -663,49 +655,26 @@ A: I want you to look up as much as you can.
 
 Don't worry if you don't understand sentences.  
 
-You don't understand them because they aren't i+1.  (Only 1 component of the sentence that you aren't already quite comfortable with)
-
-With more reading, more i+1 opportunities arise.  
-
-And when you read, look up, and understand i+1 sentences, your Japanese comprehension level increases.  
-
-And with enough reading, you'll be able to go back to those difficult sentences and understand them at least a little better.  
-In other words, you'll only learn to understand sentences with more reading!!!   
+You don't understand them because they aren't i+1 (only 1 component of the sentence that you aren't already quite comfortable with). With more reading, more i+1 opportunities arise. And while you read, look up, and understand i+1 sentences, your Japanese comprehension level will increase. With enough reading, you'll be able to go back to those difficult sentences and understand them at least a little bit better. In other words, you'll only learn to understand sentences with more reading!!!   
 
 ### Important! Learning how to read for long hours and making it enjoyable.  
 #### Timeboxing
 
 **Pomodoro**  
 
-The Pomodoro timer method is where you focus on a task for a set time (usually 25 minutes) until the timer rings, then you take a break for 5 minutes. When your 5 minutes are up, you go back to focusing.  
+The Pomodoro timer method is when you focus on a task for a set period of time (usually 25 minutes) until the timer rings, then you take a break for 5 minutes. When your 5 minutes are up, you go back to focusing. Use [this Pomodoro timer](https://pomofocus.io/). You can reduce the time to 15 minutes if 25 minutes is too long.  
 
-Use this Pomodoro timer: [https://pomofocus.io/](https://pomofocus.io/)    
+**Rolling dice**
 
-You should reduce the time to 15 minutes if 25 minutes is too long.  
-
-**20-sided dice**
-
-For anyone that isn't feeling like reading for too long on a particular day, you can roll a 20-sided dice to decide how many minutes you're gonna read.  
-
-[Roll a 20-sided dice](https://www.google.com/search?q=roll+a+20+sided+dice)  
-
-Or you could use the 20-sided dice to decide how many minutes reading you're gonna do between anime episodes!  
+For anyone who isn't feeling like reading for too long on a particular day, you can [click here](https://www.google.com/search?q=roll+3d6) to roll three dice which will decide how many minutes you're gonna read on that day. Or you could use them dice to decide how many minutes of reading you're gonna do between anime episodes!  
 
 #### Skimming/Skipping  
 
-Reading isn't about reading all of the text in the book.  
-
-You need to learn how to skip and skim things that don't interest you/annoy you etc.  
-
-If that annoying part of the book was any good then it would make you wanna read it right?  
-
-You can always go back to that one annoying part after you've read the good bits after all.  
-
-If you want to, of course.  
+Reading isn't about reading all of the text in the book. Learn how to skip and skim things that don't interest you/annoy you etc. If that annoying part of the book was any good, then it would make you wanna read it, right? You can always go back to that one annoying part after you've read the good bits after all (if you want to, of course).
 
 #### Take breaks!  
 
-Take breaks if you feel tired/fatigued!  
+Take breaks if you feel tired!
 
 ## Day 15 to Day 30: Daily Japanese Study and Immersion [悪戦苦闘](https://jisho.org/word/%E6%82%AA%E6%88%A6%E8%8B%A6%E9%97%98)!  
 
